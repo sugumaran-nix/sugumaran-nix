@@ -22,28 +22,6 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 👨‍💻 About Me
-
-<div align="center">
-  
-| | |
-|---|---|
-| 🧑 **Name** | Sugumaran |
-| 📍 **Location** | Coimbatore, India |
-| 🎓 **Degree** | Master of Computer Applications (MCA) |
-| 🏛️ **University** | Anna University |
-| 💻 **Stack** | React.js, Node.js, Python, Flask, TypeScript, REST APIs |
-| 🗄️ **Databases** | MySQL, MongoDB |
-| 📚 **Learning** | FastAPI, Docker, Next.js, Cloud Deployments |
-| 🎯 **Open to** | Internship or Entry Level Roles |
-| 💡 **Motto** | Code. Learn. Build. Repeat. |
-
-</div>
-
-<br clear="right"/>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages & Core**
