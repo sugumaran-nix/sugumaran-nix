@@ -21,7 +21,43 @@
 ## 👩‍💻 About Me
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 👨‍💻 About Me
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Name-Sugumaran-70A5FD?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-38BDAE?style=for-the-badge&logo=googlemaps&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Degree-MCA-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/University-Anna%20University-4ECDC4?style=for-the-badge&logo=university&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+**💻 Tech Stack:**  
+`React.js` `Node.js` `Python` `Flask` `TypeScript` `REST APIs`
+
+**🗄️ Databases:**  
+`MySQL` `MongoDB`
+
+**📚 Currently Learning:**  
+`FastAPI` `Docker` `Next.js` `Cloud Deployments`
+
+**🎯 Open to:**  
+`Internship` `Entry Level Roles`
+
+**💡 Motto:**  
+> "Code. Learn. Build. Repeat."
 ## 🛠️ Tech Stack
 
 **Languages & Core**
