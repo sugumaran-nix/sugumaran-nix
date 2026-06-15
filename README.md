@@ -137,8 +137,8 @@ const sugumaran = {
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | [🤖 VeritAI — Fake News Detector](https://github.com/sugumaran-nix/aiFakenewsDetector) | React · FastAPI · HuggingFace · Python | 90% classification accuracy · sub-800ms API response · fine-tuned BERT/RoBERTa · [Live Demo ↗](https://ai-fakenews-detector-psi.vercel.app) |
-| [📚 AI Study Planner](https://github.com/sugumaran-nix/StudyPlanner) | React · Node.js · OpenAI/Gemini API | Mobile-first design · AI-powered study recommendations · note summarization cutting review time ~40% |
-| [🌐 Developer Portfolio](https://github.com/sugumaran-nix/portfolio) | HTML5 · CSS3 · JavaScript | Responsive design · smooth animations · cross-device compatible · deployed on GitHub Pages |
+| [📚 AI Study Planner](https://github.com/sugumaran-nix/ai-studyplanner) | React · Node.js · OpenAI/Gemini API | Mobile-first design · AI-powered study recommendations · note summarization cutting review time ~40% |
+| [🌐 Developer Portfolio](https://github.com/sugumaran-nix/my-portfolio) | HTML5 · CSS3 · JavaScript | Responsive design · smooth animations · cross-device compatible · deployed on GitHub Pages |
 | [🕵️ Fake Job Posting Detector](https://github.com/sugumaran-nix/fake-job-posting-ml) | Python · scikit-learn · ML | 4 ML classifiers · URL fraud heuristics · explainable AI output |
 
 </div>
