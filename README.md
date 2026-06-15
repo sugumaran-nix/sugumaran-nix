@@ -1,5 +1,5 @@
 <a href="https://github.com/sugumaran-nix">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sugumaran&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Python%20%E2%80%A2%20Flask%20%7C%20Building%20AI-Powered%20Web%20Apps&descAlignY=62&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sugumaran&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20%E2%80%A2%20Python%20%E2%80%A2%20Flask%20%7C%20Building%20AI-Powered%20Web%20Apps&descAlignY=62&descSize=16" />
 </a>
 
 <p align="center">
