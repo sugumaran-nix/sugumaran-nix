@@ -21,9 +21,9 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1995/1995535.png" width="28" /> About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```javascript
 const sugumaran = {
@@ -51,7 +51,7 @@ const sugumaran = {
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="28" /> Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Core**
 
@@ -93,7 +93,7 @@ const sugumaran = {
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="28" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/sugumaran-nix">
@@ -106,7 +106,7 @@ const sugumaran = {
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/785/785116.png" width="28" /> Streak Stats
+## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sugumaran-nix&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
@@ -114,7 +114,7 @@ const sugumaran = {
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="28" /> Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
@@ -122,7 +122,7 @@ const sugumaran = {
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2278/2278613.png" width="28" /> Trophy Wall
+## 🏆 Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sugumaran-nix&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
@@ -130,7 +130,7 @@ const sugumaran = {
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3141/3141710.png" width="28" /> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -145,23 +145,23 @@ const sugumaran = {
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1875/1875670.png" width="28" /> Certifications & Achievements
+## 🎖️ Certifications & Achievements
 
 <div align="center">
 
 | | Certification | Issuer | Focus Area |
 |:---:|:-------------|:-------|:-----------|
-| <img src="https://cdn-icons-png.flaticon.com/512/364/364089.png" width="20" /> | Web Development Fundamentals | IBM SkillsBuild | HTML, CSS, JS, Responsive Design |
-| <img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="20" /> | Introduction to Generative AI | Google Cloud | LLMs, Prompt Engineering, AI Products |
-| <img src="https://cdn-icons-png.flaticon.com/512/2593/2593549.png" width="20" /> | Prompt Engineering for Everyone | CognitiveClass.ai (IBM) | AI Interaction & Prompt Design |
-| <img src="https://cdn-icons-png.flaticon.com/512/136/136518.png" width="20" /> | SQL (Basic) | HackerRank | Queries, Joins, Aggregations |
-| <img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="20" /> | Cloud Foundations | IBM SkillsBuild | Cloud Concepts & Infrastructure |
+| 🌐 | Web Development Fundamentals | IBM SkillsBuild | HTML, CSS, JS, Responsive Design |
+| 🤖 | Introduction to Generative AI | Google Cloud | LLMs, Prompt Engineering, AI Products |
+| 💬 | Prompt Engineering for Everyone | CognitiveClass.ai (IBM) | AI Interaction & Prompt Design |
+| 🗄️ | SQL (Basic) | HackerRank | Queries, Joins, Aggregations |
+| ☁️ | Cloud Foundations | IBM SkillsBuild | Cloud Concepts & Infrastructure |
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/167/167756.png" width="28" /> Education
+## 🎓 Education
 
 <div align="center">
 
@@ -174,7 +174,7 @@ const sugumaran = {
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3389/3389081.png" width="28" /> Currently Learning
+## 📚 Currently Learning
 
 ```
 FastAPI          → Async endpoints, Pydantic models, dependency injection
@@ -186,7 +186,7 @@ LLMs & RAG       → LangChain, vector databases, embedding models
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="28" /> Let's Connect
+## 📬 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sugumaran-nix">
