@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Python+%7C+Flask+%7C+TypeScript;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;MCA+Student+%7C+Open+to+Internship+Roles+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Python+%7C+Flask+%7C+TypeScript;Building+AI-Powered+Web+Applications;MCA+Student+%7C+Open+to+Internship+Roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,14 +21,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/1995/1995535.png" width="28" /> About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const sugumaran = {
   name        : "Sugumaran",
-  location    : "Coimbatore, India 📍",
+  location    : "Coimbatore, India",
   degree      : "Master of Computer Applications (MCA)",
   university  : "Sri Venkateshwara College | Anna University",
 
@@ -40,10 +40,10 @@ const sugumaran = {
   currentlyLearning : ["FastAPI", "Docker", "Next.js",
                        "Cloud Deployments (Render / Vercel)"],
 
-  openTo      : "Full Stack Developer Internship 🎯",
-  funFact     : "Built an AI that detects fake news at 90% accuracy! 🤖",
+  openTo      : "Full Stack Developer Internship",
+  funFact     : "Built an AI that detects fake news at 90% accuracy!",
 
-  motto       : () => "Code. Learn. Build. Repeat. 🚀"
+  motto       : () => "Code. Learn. Build. Repeat."
 };
 ```
 
@@ -51,7 +51,7 @@ const sugumaran = {
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="28" /> Tech Stack
 
 **Languages & Core**
 
@@ -93,7 +93,7 @@ const sugumaran = {
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="28" /> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/sugumaran-nix">
@@ -106,7 +106,7 @@ const sugumaran = {
 
 ---
 
-## 🔥 Streak Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/785/785116.png" width="28" /> Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sugumaran-nix&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
@@ -114,7 +114,7 @@ const sugumaran = {
 
 ---
 
-## 📈 Activity Graph
+## <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="28" /> Activity Graph
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
@@ -122,7 +122,7 @@ const sugumaran = {
 
 ---
 
-## 🏆 Trophy Wall
+## <img src="https://cdn-icons-png.flaticon.com/512/2278/2278613.png" width="28" /> Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sugumaran-nix&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
@@ -130,38 +130,38 @@ const sugumaran = {
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://cdn-icons-png.flaticon.com/512/3141/3141710.png" width="28" /> Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🤖 VeritAI — Fake News Detector](https://github.com/sugumaran-nix/aiFakenewsDetector) | React · FastAPI · HuggingFace · Python | 90% classification accuracy · sub-800ms API response · fine-tuned BERT/RoBERTa · [Live Demo ↗](https://ai-fakenews-detector-psi.vercel.app) |
-| [📚 AI Study Planner](https://github.com/sugumaran-nix/ai-studyplanner) | React · Node.js · OpenAI/Gemini API | Mobile-first design · AI-powered study recommendations · note summarization cutting review time ~40% |
-| [🌐 Developer Portfolio](https://github.com/sugumaran-nix/my-portfolio) | HTML5 · CSS3 · JavaScript | Responsive design · smooth animations · cross-device compatible · deployed on GitHub Pages |
-| [🕵️ Fake Job Posting Detector](https://github.com/sugumaran-nix/fake-job-posting-ml) | Python · scikit-learn · ML | 4 ML classifiers · URL fraud heuristics · explainable AI output |
+| [VeritAI — Fake News Detector](https://github.com/sugumaran-nix/aiFakenewsDetector) | React · FastAPI · HuggingFace · Python | 90% classification accuracy · sub-800ms API response · fine-tuned BERT/RoBERTa · [Live Demo ↗](https://ai-fakenews-detector-psi.vercel.app) |
+| [AI Study Planner](https://github.com/sugumaran-nix/ai-studyplanner) | React · Node.js · OpenAI/Gemini API | Mobile-first design · AI-powered study recommendations · note summarization cutting review time ~40% |
+| [Developer Portfolio](https://github.com/sugumaran-nix/my-portfolio) | HTML5 · CSS3 · JavaScript | Responsive design · smooth animations · cross-device compatible · deployed on GitHub Pages |
+| [Fake Job Posting Detector](https://github.com/sugumaran-nix/fake-job-posting-ml) | Python · scikit-learn · ML | 4 ML classifiers · URL fraud heuristics · explainable AI output |
 
 </div>
 
 ---
 
-## 🎖️ Certifications & Achievements
+## <img src="https://cdn-icons-png.flaticon.com/512/1875/1875670.png" width="28" /> Certifications & Achievements
 
 <div align="center">
 
 | | Certification | Issuer | Focus Area |
 |:---:|:-------------|:-------|:-----------|
-| 🌐 | Web Development Fundamentals | IBM SkillsBuild | HTML, CSS, JS, Responsive Design |
-| 🤖 | Introduction to Generative AI | Google Cloud | LLMs, Prompt Engineering, AI Products |
-| ✍️ | Prompt Engineering for Everyone | CognitiveClass.ai (IBM) | AI Interaction & Prompt Design |
-| 🗃️ | SQL (Basic) | HackerRank | Queries, Joins, Aggregations |
-| ☁️ | Cloud Foundations | IBM SkillsBuild | Cloud Concepts & Infrastructure |
+| <img src="https://cdn-icons-png.flaticon.com/512/364/364089.png" width="20" /> | Web Development Fundamentals | IBM SkillsBuild | HTML, CSS, JS, Responsive Design |
+| <img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="20" /> | Introduction to Generative AI | Google Cloud | LLMs, Prompt Engineering, AI Products |
+| <img src="https://cdn-icons-png.flaticon.com/512/2593/2593549.png" width="20" /> | Prompt Engineering for Everyone | CognitiveClass.ai (IBM) | AI Interaction & Prompt Design |
+| <img src="https://cdn-icons-png.flaticon.com/512/136/136518.png" width="20" /> | SQL (Basic) | HackerRank | Queries, Joins, Aggregations |
+| <img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="20" /> | Cloud Foundations | IBM SkillsBuild | Cloud Concepts & Infrastructure |
 
 </div>
 
 ---
 
-## 🎓 Education
+## <img src="https://cdn-icons-png.flaticon.com/512/167/167756.png" width="28" /> Education
 
 <div align="center">
 
@@ -174,19 +174,19 @@ const sugumaran = {
 
 ---
 
-## 📖 Currently Learning
+## <img src="https://cdn-icons-png.flaticon.com/512/3389/3389081.png" width="28" /> Currently Learning
 
 ```
-🐍 FastAPI          → Async endpoints, Pydantic models, dependency injection
-🐳 Docker           → Containerization, docker-compose, image optimization
-⚡ Next.js          → App Router, SSR, ISR, Edge Functions
-☁️ Cloud Deployment → Render, Railway, Vercel, environment config
-🧠 LLMs & RAG       → LangChain, vector databases, embedding models
+FastAPI          → Async endpoints, Pydantic models, dependency injection
+Docker           → Containerization, docker-compose, image optimization
+Next.js          → App Router, SSR, ISR, Edge Functions
+Cloud Deployment → Render, Railway, Vercel, environment config
+LLMs & RAG       → LangChain, vector databases, embedding models
 ```
 
 ---
 
-## 📬 Let's Connect
+## <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="28" /> Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sugumaran-nix">
@@ -203,7 +203,7 @@ const sugumaran = {
 </p>
 
 <p align="center">
-  <i>💡 "Code. Learn. Build. Repeat." — Always open to exciting full-stack & AI projects!</i>
+  <i>"Code. Learn. Build. Repeat." — Always open to exciting full-stack & AI projects!</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
