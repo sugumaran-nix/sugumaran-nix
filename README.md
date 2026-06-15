@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -30,7 +30,7 @@ const sugumaran = {
   name        : "Sugumaran",
   location    : "Coimbatore, India",
   degree      : "Master of Computer Applications (MCA)",
-  university  : "Sri Venkateshwara College | Anna University",
+  university  : "Anna University",
 
   stack       : ["React.js", "Node.js", "Python",
                  "Flask", "TypeScript", "REST APIs"],
@@ -40,8 +40,7 @@ const sugumaran = {
   currentlyLearning : ["FastAPI", "Docker", "Next.js",
                        "Cloud Deployments (Render / Vercel)"],
 
-  openTo      : "Full Stack Developer Internship",
-  funFact     : "Built an AI that detects fake news at 90% accuracy!",
+  openTo      : "Seeking for Internship or Entry Level Roles",
 
   motto       : () => "Code. Learn. Build. Repeat."
 };
