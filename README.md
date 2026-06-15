@@ -26,6 +26,30 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
+const sugumaran = {
+  name        : "Sugumaran",
+  location    : "Coimbatore, India 📍",
+  degree      : "Master of Computer Applications (MCA)",
+  university  : "Sri Venkateshwara College | Anna University",
+
+  stack       : ["React.js", "Node.js", "Python",
+                 "Flask", "TypeScript", "REST APIs"],
+
+  databases   : ["MySQL", "MongoDB"],
+
+  currentlyLearning : ["FastAPI", "Docker", "Next.js",
+                       "Cloud Deployments (Render / Vercel)"],
+
+  openTo      : "Full Stack Developer Internship 🎯",
+  funFact     : "Built an AI that detects fake news at 90% accuracy! 🤖",
+
+  motto       : () => "Code. Learn. Build. Repeat. 🚀"
+};
+```
+
+<br clear="right"/>
+
+---
 
 ## 🛠️ Tech Stack
 
