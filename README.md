@@ -23,16 +23,6 @@
     />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=780&lines=Aspiring+Full+Stack+Developer+🚀;React+Python+Flask+TypeScript;Building+AI-Powered+Web+Applications+🤖;MCA+Student+Open+to+Internship+and+Entry-Level+Roles+🎯"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -44,7 +34,7 @@ const sugumaran = {
   name        : "Sugumaran",
   location    : "Coimbatore, India 📍",
   degree      : "Master of Computer Applications (MCA)",
-  university  : "Sri Venkateshwara College | Anna University",
+  university  : "Anna University",
 
   stack       : ["React.js", "Node.js", "Python",
                  "Flask", "TypeScript", "REST APIs"],
