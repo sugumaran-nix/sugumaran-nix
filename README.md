@@ -4,25 +4,21 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com
-      ?font=Fira+Code
-      &weight=700
-      &size=26
-      &duration=3000
-      &pause=1000
-      &color=70A5FD
-      &center=true
-      &vCenter=true
-      &width=780
-      &lines=Aspiring+Full+Stack+Developer+🚀;
-              React+Python+Flask+TypeScript;
-              Building+AI-Powered+Web+Applications+🤖;
-              MCA+Student+Open+to+Internship+and+Entry-Level+Roles+🎯"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Python+%7C+Flask+%7C+TypeScript;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;MCA+Student+%7C+Open+to+Internship+Roles+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sugumaran-nix&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
+  <a href="https://linkedin.com/in/sugumaran-nix">
+    <img src="https://img.shields.io/badge/LinkedIn-sugumaran--nix-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sugumarankugan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sugumarankugan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -34,7 +30,7 @@ const sugumaran = {
   name        : "Sugumaran",
   location    : "Coimbatore, India 📍",
   degree      : "Master of Computer Applications (MCA)",
-  university  : "Anna University",
+  university  : "Sri Venkateshwara College | Anna University",
 
   stack       : ["React.js", "Node.js", "Python",
                  "Flask", "TypeScript", "REST APIs"],
