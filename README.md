@@ -30,21 +30,7 @@
 
 <br/>
 
-```python
-class Sugumaran:
-    def __init__(self):
-        self.name     = "Sugumaran"
-        self.location = "Coimbatore, India 🇮🇳"
-        self.degree   = "MCA @ Anna University (2024–2026)"
-        self.stack    = ["Python", "Flask", "React.js", "Node.js", "TypeScript"]
-        self.ai_ml    = ["Hugging Face", "Scikit-learn", "NLP", "TF-IDF"]
-        self.learning = ["Docker & DevOps", "Deep Learning", "Advanced React"]
 
-    def motto(self):
-        return "Build. Break. Learn. Repeat. 🔁"
-
-print(Sugumaran().motto())
-```
 
 <br clear="right"/>
 
