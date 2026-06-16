@@ -23,7 +23,6 @@
 - 🔭 Building AI-powered full-stack web apps with **Flask + React.js**
 - 🤖 Passionate about **NLP, Transformers & Explainable AI**
 - 🌱 Currently learning **Docker, DevOps & Deep Learning**
-- ⚡ Fun fact: Built a fake-news detector before it was cool 🕵️
 - 💬 Ask me about **Python, Flask, React, Hugging Face**
 - 📫 Reach me at **sugumarankugan@gmail.com**
 
