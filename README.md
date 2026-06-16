@@ -173,17 +173,24 @@
 ## 🏅 Achievements & Certifications
 
 <div align="center">
-
-| 🏷️ | Achievement | Details |
-|:---:|:------------|:--------|
-| 🤖 | **AI Fake News Detection** | 90% classification accuracy using Hugging Face Transformers |
-| ⚡ | **API Performance** | Consistently achieved sub-800ms response time across projects |
-| 🐳 | **Docker Deployment** | Containerised ML application with full unit test coverage |
-| 🌐 | **Web Dev Fundamentals** | Certified by **IBM SkillsBuild** |
-| 🧠 | **Intro to Generative AI** | Certified by **Google Cloud** |
-| 💬 | **Prompt Engineering** | Certified by **CognitiveClass.ai (IBM)** |
-| 🗄️ | **SQL (Basic)** | Certified by **HackerRank** |
-
+<table width="100%">
+<thead>
+<tr>
+<th width="5%">🏷️</th>
+<th width="25%">Achievement</th>
+<th width="70%">Details</th>
+</tr>
+</thead>
+<tbody>
+<tr><td align="center">🤖</td><td><strong>AI Fake News Detection</strong></td><td>90% classification accuracy using fine-tuned Hugging Face Transformer models</td></tr>
+<tr><td align="center">⚡</td><td><strong>API Performance</strong></td><td>Consistently achieved sub-800ms average response time across all Flask REST API projects</td></tr>
+<tr><td align="center">🐳</td><td><strong>Docker Deployment</strong></td><td>Containerised ML application with model switching, SQLite history, and full unit test coverage</td></tr>
+<tr><td align="center">🌐</td><td><strong>Web Dev Fundamentals</strong></td><td>Certified by <strong>IBM SkillsBuild</strong></td></tr>
+<tr><td align="center">🧠</td><td><strong>Intro to Generative AI</strong></td><td>Certified by <strong>Google Cloud</strong></td></tr>
+<tr><td align="center">💬</td><td><strong>Prompt Engineering</strong></td><td>Certified by <strong>CognitiveClass.ai (IBM)</strong></td></tr>
+<tr><td align="center">🗄️</td><td><strong>SQL (Basic)</strong></td><td>Certified by <strong>HackerRank</strong></td></tr>
+</tbody>
+</table>
 </div>
 
 ---
