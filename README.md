@@ -8,8 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sugumaran-nix&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/sugumaran-nix?label=Followers&style=flat-square&color=70a5fd&labelColor=0d1117" alt="Followers"/>
-
+<img src="https://img.shields.io/badge/Followers-Check%20Profile-70a5fd?style=flat-square&logo=github&logoColor=white" alt="Followers"/>
 </div>
 
 ---
