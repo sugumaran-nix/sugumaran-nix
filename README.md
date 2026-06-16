@@ -201,12 +201,12 @@
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
 | **MCA** — Master of Computer Applications | Sri Venkateshwara College of CA & Mgmt, Anna University · Coimbatore | 2024 – 2026 | Pursuing |
-| **BCA** — Bachelor of Computer Applications | Government Arts & Science College, Bharathiar University · Gudalur | 2021 – 2024 | **83.71%** |
+| **BCA** — Bachelor of Computer Applications | Gudalur Arts & Science College, Bharathiar University · Gudalur | 2021 – 2024 | **83.71%** |
 
 </div>
 
 ---
-
+<!--  
 ## 📚 Currently Learning
 
 ```
@@ -217,7 +217,7 @@
 ```
 
 ---
-
+-->
 ## 🤝 Connect with Me
 
 <div align="center">
