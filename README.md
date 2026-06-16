@@ -212,9 +212,9 @@
 
 ```
 🐳 Docker & DevOps      →  Containerisation · CI/CD Pipelines · GitHub Actions
-⚛️  Advanced React       →  Custom Hooks · Context API · Performance Optimisation
+⚛️ Advanced React       →  Custom Hooks · Context API · Performance Optimisation
 🧠 Deep Learning        →  Neural Networks · PyTorch · Model Fine-tuning
-☁️  Cloud Fundamentals   →  Google Cloud · Deployment · Serverless
+☁️ Cloud Fundamentals   →  Google Cloud · Deployment · Serverless
 ```
 
 ---
