@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sugumaran+%F0%9F%91%8B;Full+Stack+Developer+%7C+Flask+%2B+React.js;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Sugumaran+%F0%9F%91%8B;Full+Stack+Developer+%7C+Flask+%2B+React.js;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,10 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- FIX: HTML table forces two-column layout reliably on GitHub -->
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class Sugumaran:
@@ -45,8 +48,8 @@ class Sugumaran:
         ]
 
         self.fun_fact = (
-            "I built a fake-news detector before "
-            "it was cool 🕵️"
+            "I built a fake-news detector "
+            "before it was cool 🕵️"
         )
 
     def motto(self):
@@ -56,7 +59,12 @@ me = Sugumaran()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" align="center" width="40%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
