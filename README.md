@@ -13,7 +13,6 @@
 
 ---
 
-
 ## 💻 About Me
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
@@ -28,8 +27,6 @@
 - 📫 Reach me at **sugumarankugan@gmail.com**
 
 <br/>
-
-
 
 <br clear="right"/>
 
@@ -128,20 +125,6 @@
 ## 💼 Work & Projects
 
 <details>
-<summary>🤖 <strong>AI Fake News Detection Platform</strong> — Full Stack Developer · Personal Project · 2024</summary>
-
-<br/>
-
-> `React.js` `Flask` `Hugging Face` `Transformers` `REST API` `Python` `MySQL`
-
-- 🎯 Achieved **90% classification accuracy** using fine-tuned transformer models from Hugging Face
-- ⚡ Designed RESTful APIs with Flask delivering **sub-800ms average response time**
-- 📊 Built a responsive React.js dashboard with **real-time confidence score visualization**
-- 🔗 [View Repository →](https://github.com/sugumaran-nix/fake-news-detector)
-
-</details>
-
-<details>
 <summary>🕵️ <strong>Fake Job Posting Prediction</strong> — ML Engineer · Personal Project · 2024</summary>
 
 <br/>
@@ -155,6 +138,48 @@
 
 </details>
 
+<details>
+<summary>🤖 <strong>AI-Generated Text Detector</strong> — ML Engineer · Personal Project · 2024</summary>
+
+<br/>
+
+> `FastAPI` `Python` `scikit-learn` `NLTK` `Docker` `Vanilla JS`
+
+- 🧬 Built a **classical NLP feature pipeline** (11 features: perplexity, burstiness, lexical diversity, POS-tag entropy, readability) — fully explainable, no black-box neural model
+- 📝 Sentence-level highlighting shows *which* parts of a text read as most machine-typical, not just a single document score
+- ⚡ Runs on free-tier CPU — no GPU, no PyTorch, no multi-GB model download required
+- 🔗 [View Repository →](https://github.com/sugumaran-nix/ai-content-detector)
+
+</details>
+
+<details>
+<summary>🎨 <strong>Sketchline — Real-time Collaborative Whiteboard</strong> — Full Stack Developer · Personal Project · 2024</summary>
+
+<br/>
+
+> `FastAPI` `WebSockets` `Next.js 14` `TypeScript` `Tailwind CSS` `HTML5 Canvas` `Docker`
+
+- 🔴 **Live multiplayer drawing** — every stroke syncs across all connected browsers via FastAPI WebSockets; typical latency under 100ms
+- 🖌️ Custom drawing engine built directly on HTML5 Canvas + Pointer Events API — no external whiteboard library
+- 🔄 Full stroke-history replay on reconnect so late-joining clients never see a blank canvas; live cursor presence with name labels per user
+- 🔗 [View Repository →](https://github.com/sugumaran-nix/Sketchline-whiteboard)
+
+</details>
+
+<details>
+<summary>📋 <strong>ProjectScope — Eisenhower Matrix Task Manager</strong> — Frontend Developer · Personal Project · 2024</summary>
+
+<br/>
+
+> `React` `TypeScript` `Vite` `Tailwind CSS` `dnd-kit` `localStorage`
+
+- 🗂️ 4-quadrant Eisenhower Matrix with **drag-and-drop** between quadrants using `@dnd-kit` (pointer + keyboard accessible)
+- 💾 Fully frontend-only — persistent state via `useLocalStorage` hook with cross-tab sync via native `storage` events
+- ♿ Accessible UI with ARIA labels, `aria-pressed`, focus rings, and `prefers-reduced-motion` support
+- 🔗 [View Repository →](https://github.com/sugumaran-nix/ProjectScope)
+
+</details>
+
 ---
 
 ## 🚀 Featured Projects
@@ -163,12 +188,15 @@
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🔍 AI Fake News Detector](https://github.com/sugumaran-nix/fake-news-detector) | React.js · Flask · Hugging Face · REST API | 90% accuracy · sub-800ms latency · Real-time confidence dashboard |
-| [💼 Fake Job Posting ML](https://github.com/sugumaran-nix/fake-job-posting-ml) | Flask · Scikit-learn · TF-IDF · Docker | 4 ML classifiers · Explainable AI · Dockerized · sub-800ms response |
+| [🕵️ Fake Job Posting ML](https://github.com/sugumaran-nix/fake-job-posting-ml) | Flask · Scikit-learn · TF-IDF · Docker | 4 ML classifiers · Explainable AI · Dockerized |
+| [🤖 AI Text Detector](https://github.com/sugumaran-nix/ai-content-detector) | FastAPI · scikit-learn · NLTK · Docker | 11 NLP features · Sentence-level highlights · CPU-only |
+| [🎨 Sketchline Whiteboard](https://github.com/sugumaran-nix/Sketchline-whiteboard) | FastAPI · WebSockets · Next.js 14 · Canvas | Real-time multiplayer · Custom drawing engine |
+| [📋 ProjectScope](https://github.com/sugumaran-nix/ProjectScope) | React · TypeScript · Vite · dnd-kit | Eisenhower Matrix · Drag & drop · localStorage |
 
 </div>
 
 ---
+
 ## 🏅 Achievements & Certifications
 
 <div align="center">
@@ -181,7 +209,6 @@
 </tr>
 </thead>
 <tbody>
-<tr><td align="center">🤖</td><td><strong>AI Fake News Detection</strong></td><td>90% classification accuracy using fine-tuned Hugging Face Transformer models</td></tr>
 <tr><td align="center">⚡</td><td><strong>API Performance</strong></td><td>Consistently achieved sub-800ms average response time across all Flask REST API projects</td></tr>
 <tr><td align="center">🐳</td><td><strong>Docker Deployment</strong></td><td>Containerised ML application with model switching, SQLite history, and full unit test coverage</td></tr>
 <tr><td align="center">🌐</td><td><strong>Web Dev Fundamentals</strong></td><td>Certified by <strong>IBM SkillsBuild</strong></td></tr>
@@ -206,18 +233,7 @@
 </div>
 
 ---
-<!--  
-## 📚 Currently Learning
 
-```
-🐳 Docker & DevOps      →  Containerisation · CI/CD Pipelines · GitHub Actions
-⚛️ Advanced React       →  Custom Hooks · Context API · Performance Optimisation
-🧠 Deep Learning        →  Neural Networks · PyTorch · Model Fine-tuning
-☁️ Cloud Fundamentals   →  Google Cloud · Deployment · Serverless
-```
-
----
--->
 ## 🤝 Connect with Me
 
 <div align="center">
