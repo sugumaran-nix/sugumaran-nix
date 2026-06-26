@@ -60,6 +60,7 @@
 
 ![React](https://img.shields.io/badge/React.js-00FF41?style=flat-square&logo=react&logoColor=000000)
 ![Next.js](https://img.shields.io/badge/Next.js_14-00FF41?style=flat-square&logo=nextdotjs&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=flat-square&logo=nodedotjs&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=000000)
 ![Tailwind](https://img.shields.io/badge/Tailwind-00FF41?style=flat-square&logo=tailwindcss&logoColor=000000)
@@ -68,7 +69,6 @@
 
 ![Flask](https://img.shields.io/badge/Flask-00FF41?style=flat-square&logo=flask&logoColor=000000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00FF41?style=flat-square&logo=fastapi&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=flat-square&logo=nodedotjs&logoColor=000000)
 ![WebSockets](https://img.shields.io/badge/WebSockets-00FF41?style=flat-square&logo=socketdotio&logoColor=000000)
 
 **`AI · ML · NLP`**
@@ -123,26 +123,6 @@
 | **[AI Text Detector](https://github.com/sugumaran-nix/ai-text-detector)** | `FastAPI` `NLTK` `scikit-learn` `Docker` | 11 NLP features · Sentence highlighting · Zero GPU |
 | **[Sketchline Whiteboard](https://github.com/sugumaran-nix/sketchline)** | `FastAPI` `WebSockets` `Next.js 14` `Canvas` | Real-time multiplayer · <100ms latency · Custom engine |
 | **[ProjectScope Tasks](https://github.com/sugumaran-nix/projectscope)** | `React` `TypeScript` `Vite` `dnd-kit` | Eisenhower Matrix · Drag-and-drop · Cross-tab sync |
-
----
-
-## `> ./skill-loader`
-
-```
-╔════════════════════════════════════════════════════════════╗
-║  [ SUGUMARAN-NIX :: SKILL ACQUISITION LOG ]                ║
-╠════════════════════════════════════════════════════════════╣
-║  DOCKER   [========--]  80%   containerizing               ║
-║  DEEP-ML  [=====-----]  50%   training weights             ║
-║  REACT    [=======---]  70%   hooking patterns             ║
-║  GCLOUD   [====------]  40%   spinning up                  ║
-║  ACTIONS  [======----]  60%   automating ci/cd             ║
-╠════════════════════════════════════════════════════════════╣
-║  info  ::  Python 3.12 / Node 20 / Docker 26               ║
-║  info  ::  MCA uptime: pursuing since Sept 2024            ║
-║  warn  ::  sleep() deprecated; coffee.exe detected         ║
-╚════════════════════════════════════════════════════════════╝
-```
 
 ---
 
