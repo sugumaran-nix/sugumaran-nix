@@ -1,255 +1,223 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sugumaran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+MCA+Student&descAlignY=62&descSize=16" width="100%"/>
-
+<!-- MATRIX HEADER — upload matrix-header.svg to repo root -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Sugumaran+%F0%9F%91%8B;Full+Stack+Developer+%7C+Flask+%2B+React.js;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sugumaran-nix&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Followers-Check%20Profile-70a5fd?style=flat-square&logo=github&logoColor=white" alt="Followers"/>
+  <img src="./matrix-header.svg" width="100%" alt="matrix-rain-header"/>
 </div>
 
----
-
-## 💻 About Me
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
-
-- 👋 Hey! I'm **Sugumaran**, a final-year MCA student at Anna University
-- 📍 Based in **Coimbatore, India**
-- 🎓 **MCA** (2024–2026) · BCA with **83.71%** (2021–2024)
-- 🔭 Building AI-powered full-stack web apps with **Flask + React.js**
-- 🤖 Passionate about **NLP, Transformers & Explainable AI**
-- 🌱 Currently learning **Docker, DevOps & Deep Learning**
-- 💬 Ask me about **Python, Flask, React, Hugging Face**
-- 📫 Reach me at **sugumarankugan@gmail.com**
-
-<br/>
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & API**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI / ML**
-
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%5BROOT%40sugumaran-nix+~%5D%24+whoami;Full+Stack+Developer+%7C+Flask+%2B+React.js;AI+%26+ML+Engineer+%7C+NLP+%7C+Transformers;Explainable+AI+%7C+Real-time+Systems;Building+Intelligent+Web+Apps+from+Coimbatore;%5BROOT%40sugumaran-nix+~%5D%24+_" alt="typing"/>
+</div>
 
 <div align="center">
 
-<a href="https://github.com/sugumaran-nix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/sugumaran-nix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugumaran-nix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+![Views](https://komarev.com/ghpvc/?username=sugumaran-nix&label=VIEWS&color=00ff41&style=flat-square&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/sugumaran-nix?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=000000&logo=github&logoColor=00ff41)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000)
+![Location](https://img.shields.io/badge/Coimbatore%2C%20India-00ff41?style=flat-square&labelColor=000000)
+![MCA](https://img.shields.io/badge/MCA-Anna%20University%202024--26-00ff41?style=flat-square&labelColor=000000)
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## `> whoami`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  [ROOT@sugumaran-nix ~]$  cat /etc/profile                   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  name       Sugumaran                                        │
+│  alias      sugumaran-nix                                    │
+│  location   Coimbatore, India                                │
+│  degree     MCA  Anna University  2024-2026                  │
+│  email      sugumarankugan@gmail.com                         │
+│                                                              │
+│  stack      Python  Flask  FastAPI  React.js  TypeScript     │
+│  ai         Hugging Face  Scikit-learn  NLP  TF-IDF  NLTK    │
+│  db         MySQL  MongoDB  SQLite                           │
+│  devops     Docker  Git  GitHub Actions                      │
+│                                                              │
+│  learning   Deep Learning  DevOps  Google Cloud              │
+│  motto      Build. Break. Learn. Repeat.                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> ls tech-stack`
+
+**`LANGUAGES`**
+
+![Python](https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=flat-square&logo=typescript&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-00FF41?style=flat-square&logo=mysql&logoColor=000000)
+![C](https://img.shields.io/badge/C-00FF41?style=flat-square&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-00FF41?style=flat-square&logo=cplusplus&logoColor=000000)
+
+**`FRONTEND`**
+
+![React](https://img.shields.io/badge/React.js-00FF41?style=flat-square&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js_14-00FF41?style=flat-square&logo=nextdotjs&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind-00FF41?style=flat-square&logo=tailwindcss&logoColor=000000)
+
+**`BACKEND`**
+
+![Flask](https://img.shields.io/badge/Flask-00FF41?style=flat-square&logo=flask&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-00FF41?style=flat-square&logo=fastapi&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=flat-square&logo=nodedotjs&logoColor=000000)
+![WebSockets](https://img.shields.io/badge/WebSockets-00FF41?style=flat-square&logo=socketdotio&logoColor=000000)
+
+**`AI · ML · NLP`**
+
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-00FF41?style=flat-square&logo=huggingface&logoColor=000000)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00FF41?style=flat-square&logo=scikitlearn&logoColor=000000)
+![NLTK](https://img.shields.io/badge/NLTK-00FF41?style=flat-square&logo=python&logoColor=000000)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-00FF41?style=flat-square&logo=python&logoColor=000000)
+
+**`DATABASES`**
+
+![MySQL](https://img.shields.io/badge/MySQL-00FF41?style=flat-square&logo=mysql&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FF41?style=flat-square&logo=mongodb&logoColor=000000)
+![SQLite](https://img.shields.io/badge/SQLite-00FF41?style=flat-square&logo=sqlite&logoColor=000000)
+
+**`DEVOPS & TOOLS`**
+
+![Docker](https://img.shields.io/badge/Docker-00FF41?style=flat-square&logo=docker&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00FF41?style=flat-square&logo=githubactions&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-00FF41?style=flat-square&logo=visualstudiocode&logoColor=000000)
+
+---
+
+## `> cat stats.json`
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00CC33&text_color=00FF41&count_private=true&include_all_commits=true&rank_icon=github&ring_color=00FF41" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugumaran-nix&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=sugumaran-nix&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
-
+<div align="center">
+  <img width="680" src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00AA22&dates=006600&currStreakNum=00FF41&sideNums=00FF41&stroke=000000&border_radius=6" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## `> git log --graph`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=000000&color=00FF41&line=00FF41&point=00AA33&area=true&area_color=003300&hide_border=true&radius=6" />
 </div>
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sugumaran-nix&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-
-</div>
-
----
-
-## 💼 Work & Projects
-
-<details>
-<summary>🕵️ <strong>Fake Job Posting Prediction</strong> — ML Engineer · Personal Project · 2024</summary>
-
-<br/>
-
-> `Flask` `Scikit-learn` `TF-IDF` `Docker` `SQLite` `Python` `REST API`
-
-- 🧠 Built Flask web app with **4 ML classifiers** (Logistic Regression, Random Forest, SVM, Naive Bayes) for fraudulent job detection
-- 🔍 Implemented **explainable AI** with TF-IDF feature analysis and URL fraud heuristics
-- 🐳 Delivered REST API with model switching, SQLite prediction history, **Docker deployment**, and unit tests with **sub-800ms response time**
-- 🔗 [View Repository →](https://github.com/sugumaran-nix/fake-job-posting-ml)
-
-</details>
-
-<details>
-<summary>🤖 <strong>AI-Generated Text Detector</strong> — ML Engineer · Personal Project · 2024</summary>
-
-<br/>
-
-> `FastAPI` `Python` `scikit-learn` `NLTK` `Docker` `Vanilla JS`
-
-- 🧬 Built a **classical NLP feature pipeline** (11 features: perplexity, burstiness, lexical diversity, POS-tag entropy, readability) — fully explainable, no black-box neural model
-- 📝 Sentence-level highlighting shows *which* parts of a text read as most machine-typical, not just a single document score
-- ⚡ Runs on free-tier CPU — no GPU, no PyTorch, no multi-GB model download required
-- 🔗 [View Repository →](https://github.com/sugumaran-nix/ai-content-detector)
-
-</details>
-
-<details>
-<summary>🎨 <strong>Sketchline — Real-time Collaborative Whiteboard</strong> — Full Stack Developer · Personal Project · 2024</summary>
-
-<br/>
-
-> `FastAPI` `WebSockets` `Next.js 14` `TypeScript` `Tailwind CSS` `HTML5 Canvas` `Docker`
-
-- 🔴 **Live multiplayer drawing** — every stroke syncs across all connected browsers via FastAPI WebSockets; typical latency under 100ms
-- 🖌️ Custom drawing engine built directly on HTML5 Canvas + Pointer Events API — no external whiteboard library
-- 🔄 Full stroke-history replay on reconnect so late-joining clients never see a blank canvas; live cursor presence with name labels per user
-- 🔗 [View Repository →](https://github.com/sugumaran-nix/Sketchline-whiteboard)
-
-</details>
-
-<details>
-<summary>📋 <strong>ProjectScope — Eisenhower Matrix Task Manager</strong> — Frontend Developer · Personal Project · 2024</summary>
-
-<br/>
-
-> `React` `TypeScript` `Vite` `Tailwind CSS` `dnd-kit` `localStorage`
-
-- 🗂️ 4-quadrant Eisenhower Matrix with **drag-and-drop** between quadrants using `@dnd-kit` (pointer + keyboard accessible)
-- 💾 Fully frontend-only — persistent state via `useLocalStorage` hook with cross-tab sync via native `storage` events
-- ♿ Accessible UI with ARIA labels, `aria-pressed`, focus rings, and `prefers-reduced-motion` support
-- 🔗 [View Repository →](https://github.com/sugumaran-nix/ProjectScope)
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
+## `> cat projects/featured.md`
 
 | Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [🕵️ Fake Job Posting ML](https://github.com/sugumaran-nix/fake-job-posting-ml) | Flask · Scikit-learn · TF-IDF · Docker | 4 ML classifiers · Explainable AI · Dockerized |
-| [🤖 AI Text Detector](https://github.com/sugumaran-nix/ai-content-detector) | FastAPI · scikit-learn · NLTK · Docker | 11 NLP features · Sentence-level highlights · CPU-only |
-| [🎨 Sketchline Whiteboard](https://github.com/sugumaran-nix/Sketchline-whiteboard) | FastAPI · WebSockets · Next.js 14 · Canvas | Real-time multiplayer · Custom drawing engine |
-| [📋 ProjectScope](https://github.com/sugumaran-nix/ProjectScope) | React · TypeScript · Vite · dnd-kit | Eisenhower Matrix · Drag & drop · localStorage |
+|:---|:---|:---|
+| **[Fake Job Posting ML](https://github.com/sugumaran-nix/fake-job-posting-ml)** | `Flask` `Scikit-learn` `TF-IDF` `Docker` | 4 ML classifiers · Explainable AI · sub-800ms · Dockerized |
+| **[AI Text Detector](https://github.com/sugumaran-nix/ai-text-detector)** | `FastAPI` `NLTK` `scikit-learn` `Docker` | 11 NLP features · Sentence highlighting · Zero GPU |
+| **[Sketchline Whiteboard](https://github.com/sugumaran-nix/sketchline)** | `FastAPI` `WebSockets` `Next.js 14` `Canvas` | Real-time multiplayer · <100ms latency · Custom engine |
+| **[ProjectScope Tasks](https://github.com/sugumaran-nix/projectscope)** | `React` `TypeScript` `Vite` `dnd-kit` | Eisenhower Matrix · Drag-and-drop · Cross-tab sync |
 
+---
+
+## `> ./skill-loader`
+
+```
+╔════════════════════════════════════════════════════════════╗
+║  [ SUGUMARAN-NIX :: SKILL ACQUISITION LOG ]                ║
+╠════════════════════════════════════════════════════════════╣
+║  DOCKER   [========--]  80%   containerizing               ║
+║  DEEP-ML  [=====-----]  50%   training weights             ║
+║  REACT    [=======---]  70%   hooking patterns             ║
+║  GCLOUD   [====------]  40%   spinning up                  ║
+║  ACTIONS  [======----]  60%   automating ci/cd             ║
+╠════════════════════════════════════════════════════════════╣
+║  info  ::  Python 3.12 / Node 20 / Docker 26               ║
+║  info  ::  MCA uptime: pursuing since Sept 2024            ║
+║  warn  ::  sleep() deprecated; coffee.exe detected         ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> cat achievements.log`
+
+| # | Achievement | Details |
+|:---:|:---|:---|
+| `01` | **API Performance** | Sub-800ms response across all Flask and FastAPI projects |
+| `02` | **Docker Deployment** | Containerised ML app with model switching and full unit tests |
+| `03` | **Explainable AI** | TF-IDF and heuristics pipeline — fully interpretable, zero black-box |
+| `04` | **Web Dev Fundamentals** | Certified — IBM SkillsBuild |
+| `05` | **Intro to Generative AI** | Certified — Google Cloud |
+| `06` | **Prompt Engineering** | Certified — CognitiveClass.ai IBM |
+| `07` | **SQL Basic** | Certified — HackerRank |
+
+---
+
+## `> watch git log --contributions`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution-snake"
+         src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## `> connect --all`
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sugumaran--nix-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://linkedin.com/in/sugumaran-nix)
+[![GitHub](https://img.shields.io/badge/GitHub-sugumaran--nix-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/sugumaran-nix)
+[![Email](https://img.shields.io/badge/Gmail-sugumarankugan%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:sugumarankugan@gmail.com)
+
+<!-- MATRIX FOOTER — upload matrix-footer.svg to repo root -->
 <div align="center">
-<table width="100%">
-<thead>
-<tr>
-<th width="5%">🏷️</th>
-<th width="25%">Achievement</th>
-<th width="70%">Details</th>
-</tr>
-</thead>
-<tbody>
-<tr><td align="center">⚡</td><td><strong>API Performance</strong></td><td>Consistently achieved sub-800ms average response time across all Flask REST API projects</td></tr>
-<tr><td align="center">🐳</td><td><strong>Docker Deployment</strong></td><td>Containerised ML application with model switching, SQLite history, and full unit test coverage</td></tr>
-<tr><td align="center">🌐</td><td><strong>Web Dev Fundamentals</strong></td><td>Certified by <strong>IBM SkillsBuild</strong></td></tr>
-<tr><td align="center">🧠</td><td><strong>Intro to Generative AI</strong></td><td>Certified by <strong>Google Cloud</strong></td></tr>
-<tr><td align="center">💬</td><td><strong>Prompt Engineering</strong></td><td>Certified by <strong>CognitiveClass.ai (IBM)</strong></td></tr>
-<tr><td align="center">🗄️</td><td><strong>SQL (Basic)</strong></td><td>Certified by <strong>HackerRank</strong></td></tr>
-</tbody>
-</table>
+  <img src="./matrix-footer.svg" width="100%" alt="matrix-rain-footer"/>
 </div>
 
----
-
-## 🎓 Education
-
 <div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| **MCA** — Master of Computer Applications | Sri Venkateshwara College of CA & Mgmt, Anna University · Coimbatore | 2024 – 2026 | Pursuing |
-| **BCA** — Bachelor of Computer Applications | Gudalur Arts & Science College, Bharathiar University · Gudalur | 2021 – 2024 | **83.71%** |
-
+  <sub>crafted with python logic and react aesthetics &nbsp;·&nbsp; coimbatore, india &nbsp;·&nbsp; tamil · english</sub>
 </div>
 
----
+<!--
+=================================================================
+  SNAKE ANIMATION SETUP  (one-time, takes ~5 min)
+=================================================================
+  Create: .github/workflows/snake.yml
 
-## 🤝 Connect with Me
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: sugumaran-nix
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${ secrets.GITHUB_TOKEN }
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sugumaran--nix-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sugumaran-nix)
-[![GitHub](https://img.shields.io/badge/GitHub-sugumaran--nix-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sugumaran-nix)
-[![Email](https://img.shields.io/badge/Email-sugumarankugan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sugumarankugan@gmail.com)
-
-<br/>
-
-*📍 Coimbatore, India &nbsp;|&nbsp; 🗣️ Tamil (Fluent) · English (Intermediate)*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
+  Then: Actions tab > Generate Snake > Run workflow
+=================================================================
+-->
