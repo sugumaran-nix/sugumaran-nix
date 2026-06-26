@@ -49,48 +49,48 @@
 
 **`LANGUAGES`**
 
-![Python](https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=flat-square&logo=typescript&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-00FF41?style=flat-square&logo=mysql&logoColor=000000)
-![C](https://img.shields.io/badge/C-00FF41?style=flat-square&logo=c&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-00FF41?style=flat-square&logo=cplusplus&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=ffffff&color=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=ffffff&color=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=flat-square&logo=typescript&logoColor=ffffff&color=00FF41)
+![SQL](https://img.shields.io/badge/SQL-00FF41?style=flat-square&logo=mysql&logoColor=ffffff&color=00FF41)
+![C](https://img.shields.io/badge/C-00FF41?style=flat-square&logo=c&logoColor=ffffff&color=00FF41)
+![C++](https://img.shields.io/badge/C++-00FF41?style=flat-square&logo=cplusplus&logoColor=ffffff&color=00FF41)
 
 **`FRONTEND`**
 
-![React](https://img.shields.io/badge/React.js-00FF41?style=flat-square&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js_14-00FF41?style=flat-square&logo=nextdotjs&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=flat-square&logo=nodedotjs&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=000000)
-![Tailwind](https://img.shields.io/badge/Tailwind-00FF41?style=flat-square&logo=tailwindcss&logoColor=000000)
+![React](https://img.shields.io/badge/React.js-00FF41?style=flat-square&logo=react&logoColor=ffffff&color=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js_14-00FF41?style=flat-square&logo=nextdotjs&logoColor=ffffff&color=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=flat-square&logo=nodedotjs&logoColor=ffffff&color=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=ffffff&color=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=ffffff&color=00FF41)
+![Tailwind](https://img.shields.io/badge/Tailwind-00FF41?style=flat-square&logo=tailwindcss&logoColor=ffffff&color=00FF41)
 
 **`BACKEND`**
 
-![Flask](https://img.shields.io/badge/Flask-00FF41?style=flat-square&logo=flask&logoColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FF41?style=flat-square&logo=fastapi&logoColor=000000)
-![WebSockets](https://img.shields.io/badge/WebSockets-00FF41?style=flat-square&logo=socketdotio&logoColor=000000)
+![Flask](https://img.shields.io/badge/Flask-00FF41?style=flat-square&logo=flask&logoColor=ffffff&color=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-00FF41?style=flat-square&logo=fastapi&logoColor=ffffff&color=00FF41)
+![WebSockets](https://img.shields.io/badge/WebSockets-00FF41?style=flat-square&logo=socketdotio&logoColor=ffffff&color=00FF41)
 
 **`AI · ML · NLP`**
 
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-00FF41?style=flat-square&logo=huggingface&logoColor=000000)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00FF41?style=flat-square&logo=scikitlearn&logoColor=000000)
-![NLTK](https://img.shields.io/badge/NLTK-00FF41?style=flat-square&logo=python&logoColor=000000)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-00FF41?style=flat-square&logo=python&logoColor=000000)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-00FF41?style=flat-square&logo=huggingface&logoColor=ffffff&color=00FF41)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00FF41?style=flat-square&logo=scikitlearn&logoColor=ffffff&color=00FF41)
+![NLTK](https://img.shields.io/badge/NLTK-00FF41?style=flat-square&logo=python&logoColor=ffffff&color=00FF41)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-00FF41?style=flat-square&logo=python&logoColor=ffffff&color=00FF41)
 
 **`DATABASES`**
 
-![MySQL](https://img.shields.io/badge/MySQL-00FF41?style=flat-square&logo=mysql&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-00FF41?style=flat-square&logo=mongodb&logoColor=000000)
-![SQLite](https://img.shields.io/badge/SQLite-00FF41?style=flat-square&logo=sqlite&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-00FF41?style=flat-square&logo=mysql&logoColor=ffffff&color=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FF41?style=flat-square&logo=mongodb&logoColor=ffffff&color=00FF41)
+![SQLite](https://img.shields.io/badge/SQLite-00FF41?style=flat-square&logo=sqlite&logoColor=ffffff&color=00FF41)
 
 **`DEVOPS & TOOLS`**
 
-![Docker](https://img.shields.io/badge/Docker-00FF41?style=flat-square&logo=docker&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00FF41?style=flat-square&logo=githubactions&logoColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-00FF41?style=flat-square&logo=visualstudiocode&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-00FF41?style=flat-square&logo=docker&logoColor=ffffff&color=00FF41)
+![Git](https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=ffffff&color=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=ffffff&color=00FF41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00FF41?style=flat-square&logo=githubactions&logoColor=ffffff&color=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-00FF41?style=flat-square&logo=visualstudiocode&logoColor=ffffff&color=00FF41)
 
 ---
 
