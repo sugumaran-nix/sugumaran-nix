@@ -31,23 +31,11 @@ $ ssh sugumaran@github.com
 > degree   :: MCA — Anna University (2024–26)
 > based    :: Coimbatore, Tamil Nadu, India
 >
-> # --- what i build ---
-> focus    :: AI-powered web apps · Real-time systems · NLP pipelines
+> about    :: I build AI-powered web apps that actually work in production.
+>             From NLP pipelines to real-time WebSocket systems — I care
+>             about clean architecture, explainability, and shipping fast.
 >
-> # --- how i build it ---
-> frontend :: React.js · Next.js 14 · TypeScript · Tailwind CSS
-> backend  :: FastAPI · Flask · WebSockets · REST APIs
-> ai/ml    :: HuggingFace Transformers · Scikit-learn · NLTK · TF-IDF
-> db       :: MongoDB · MySQL · SQLite
-> tools    :: Git · Docker · GitHub Actions · VS Code
->
-> # --- right now ---
-> learning :: Deep Learning · System Design · Google Cloud
-> seeking  :: Fresher roles — Full Stack Dev · AI/ML Engineer
-> open_to  :: Internships · Freelance · Open Source
->
-> email    :: sugumarankugan@gmail.com
-> portfolio:: sugumaran-portfolio.vercel.app
+> seeking  :: Fresher roles · Internships · Open Source
 > status   :: open_to_work=true 🟢
 >
 > Last login: June 2026 — Coimbatore, India
