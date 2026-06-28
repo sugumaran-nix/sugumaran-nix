@@ -33,10 +33,6 @@ $ ssh sugumaran@github.com
 >
 > # --- what i build ---
 > focus    :: AI-powered web apps · Real-time systems · NLP pipelines
-> projects :: VeritAI (BERT fake-news detector)
->             Sketchline (real-time whiteboard — WebSockets + Canvas)
->             Fake Job Detector (Explainable ML · Flask · Docker)
->             AI Study Planner (Claude API · FastAPI · React)
 >
 > # --- how i build it ---
 > frontend :: React.js · Next.js 14 · TypeScript · Tailwind CSS
