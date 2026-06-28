@@ -6,11 +6,10 @@
     </style>
     <filter id="g1"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <filter id="g2"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <linearGradient id="vv" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#000000" stop-opacity=".95"/><stop offset="22%" stop-color="#000000" stop-opacity="0"/><stop offset="78%" stop-color="#000000" stop-opacity="0"/><stop offset="100%" stop-color="#000000" stop-opacity=".95"/></linearGradient>
-    <linearGradient id="vh" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#000000" stop-opacity=".8"/><stop offset="10%" stop-color="#000000" stop-opacity="0"/><stop offset="90%" stop-color="#000000" stop-opacity="0"/><stop offset="100%" stop-color="#000000" stop-opacity=".8"/></linearGradient>
+    <linearGradient id="vv" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="transparent" stop-opacity=".95"/><stop offset="22%" stop-color="transparent" stop-opacity="0"/><stop offset="78%" stop-color="transparent" stop-opacity="0"/><stop offset="100%" stop-color="transparent" stop-opacity=".95"/></linearGradient>
+    <linearGradient id="vh" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="transparent" stop-opacity=".8"/><stop offset="10%" stop-color="transparent" stop-opacity="0"/><stop offset="90%" stop-color="transparent" stop-opacity="0"/><stop offset="100%" stop-color="transparent" stop-opacity=".8"/></linearGradient>
     <clipPath id="clip"><rect width="860" height="80"/></clipPath>
   </defs>
-  <rect width="860" height="80" fill="#000000"/>
   <g clip-path="url(#clip)">
     <g style="animation:fall 2.4s -5.08s linear infinite"><text x="7" y="0" fill="#CCFFCC" opacity="1" font-weight="bold">0</text><text x="7" y="14" fill="#00FF41" opacity="1" font-weight="bold">0</text><text x="7" y="28" fill="#00FF41" opacity="1" font-weight="bold">0</text><text x="7" y="42" fill="#00CC33" opacity="0.8">1</text><text x="7" y="56" fill="#00CC33" opacity="0.8">0</text><text x="7" y="70" fill="#007720" opacity="0.45">0</text></g>
     <g style="animation:fall 2.3s -5.12s linear infinite"><text x="21" y="0" fill="#CCFFCC" opacity="1" font-weight="bold">0</text><text x="21" y="14" fill="#00FF41" opacity="1" font-weight="bold">1</text><text x="21" y="28" fill="#00FF41" opacity="1" font-weight="bold">0</text><text x="21" y="42" fill="#00CC33" opacity="0.8">0</text><text x="21" y="56" fill="#00CC33" opacity="0.8">1</text><text x="21" y="70" fill="#007720" opacity="0.45">0</text></g>
@@ -76,8 +75,7 @@
   </g>
   <rect width="860" height="80" fill="url(#vv)"/>
   <rect width="860" height="80" fill="url(#vh)"/>
-  <rect x="160" y="12" width="540" height="56" fill="#000000" opacity="0.58" rx="5"/>
-  <text x="433" y="47" text-anchor="middle" font-family="Courier New,monospace" font-size="34" font-weight="bold" fill="#001800" opacity="0.7">SUGUMARAN</text>
+  <text x="433" y="47" text-anchor="middle" font-family="Courier New,monospace" font-size="34" font-weight="bold" fill="#001800" opacity="0.5">SUGUMARAN</text>
   <text x="430" y="45" text-anchor="middle" font-family="Courier New,monospace" font-size="34" font-weight="bold" fill="#00FF41" filter="url(#g1)">SUGUMARAN</text>
   <text x="430" y="62" text-anchor="middle" font-family="Courier New,monospace" font-size="10" letter-spacing="3" fill="#00BB22" filter="url(#g2)">&gt;_ SOFTWARE DEVELOPER  |  AI-POWERED WEB APPS  |  PYTHON · REACT</text>
 </svg>
