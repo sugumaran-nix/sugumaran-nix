@@ -24,7 +24,7 @@
 <pre>
 $ ssh sugumaran-nix@github.com
 > Authenticating... ████████████ OK
-> Welcome back, Sugumaran.
+> All are Welcomed!
 >
 > role     :: Software Developer
 > location :: Coimbatore, India
@@ -37,7 +37,7 @@ $ ssh sugumaran-nix@github.com
 > email    :: sugumarankugan@gmail.com
 > status   :: open_to_work=true
 >
-> Last login: Sept 2024 from Coimbatore, India
+> Last login: June 2026 from Coimbatore, India
 $ _
 </pre>
 
