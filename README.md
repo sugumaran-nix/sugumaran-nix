@@ -22,22 +22,39 @@
 ## `> whoami`
 
 <pre>
-$ ssh sugumaran-nix@github.com
+$ ssh sugumaran@github.com
 > Authenticating... ████████████ OK
-> All are Welcomed!
+> Connection established. Welcome!
 >
-> role     :: Software Developer
-> location :: Coimbatore, India
-> degree   :: MCA @ Anna University 2024-26
-> stack    :: Python · Flask · React.js · TypeScript
-> ai/ml    :: Scikit-learn · HuggingFace · FastAPI
-> db       :: MySQL · MongoDB · SQLite
-> devops   :: Docker · Git · GitHub Actions
-> learning :: Deep Learning · Google Cloud
+> name     :: Sugumaran K
+> role     :: Full Stack Developer · AI/ML Engineer
+> degree   :: MCA — Anna University (2024–26)
+> based    :: Coimbatore, Tamil Nadu, India
+>
+> # --- what i build ---
+> focus    :: AI-powered web apps · Real-time systems · NLP pipelines
+> projects :: VeritAI (BERT fake-news detector)
+>             Sketchline (real-time whiteboard — WebSockets + Canvas)
+>             Fake Job Detector (Explainable ML · Flask · Docker)
+>             AI Study Planner (Claude API · FastAPI · React)
+>
+> # --- how i build it ---
+> frontend :: React.js · Next.js 14 · TypeScript · Tailwind CSS
+> backend  :: FastAPI · Flask · WebSockets · REST APIs
+> ai/ml    :: HuggingFace Transformers · Scikit-learn · NLTK · TF-IDF
+> db       :: MongoDB · MySQL · SQLite
+> tools    :: Git · Docker · GitHub Actions · VS Code
+>
+> # --- right now ---
+> learning :: Deep Learning · System Design · Google Cloud
+> seeking  :: Fresher roles — Full Stack Dev · AI/ML Engineer
+> open_to  :: Internships · Freelance · Open Source
+>
 > email    :: sugumarankugan@gmail.com
-> status   :: open_to_work=true
+> portfolio:: sugumaran-portfolio.vercel.app
+> status   :: open_to_work=true 🟢
 >
-> Last login: June 2026 from Coimbatore, India
+> Last login: June 2026 — Coimbatore, India
 $ _
 </pre>
 
