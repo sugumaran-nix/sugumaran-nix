@@ -18,29 +18,76 @@
 
 𝑰 ❤️ 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑨𝑰-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑾𝒆𝒃 𝑨𝒑𝒑𝒔!
 
-:computer: Recent MCA graduate from Anna University (2026), passionate about building things that solve real problems. I enjoy working across the full stack — from training ML models and NLP pipelines to deploying clean React frontends and FastAPI backends.
+◈ Recent MCA graduate from Anna University (2026), passionate about building things that solve real problems. I enjoy working across the full stack — from training ML models and NLP pipelines to deploying clean React frontends and FastAPI backends.
 
-🎓 𝘼𝙣𝙣𝙖 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 · 𝙈𝘾𝘼 𝟮𝟬𝟮𝟲 | 🐍 𝙋𝙮𝙩𝙝𝙤𝙣 𝙡𝙤𝙫𝙚𝙧 | ⚛️ 𝙍𝙚𝙖𝙘𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 | 🌏 𝘾𝙤𝙞𝙢𝙗𝙖𝙩𝙤𝙧𝙚, 𝙄𝙣𝙙𝙞𝙖
+◆ 𝘼𝙣𝙣𝙖 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 · 𝙈𝘾𝘼 𝟮𝟬𝟮𝟲 | 𝙋𝙮𝙩𝙝𝙤𝙣 𝙡𝙤𝙫𝙚𝙧 | 𝙍𝙚𝙖𝙘𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 | 𝘾𝙤𝙞𝙢𝙗𝙖𝙩𝙤𝙧𝙚, 𝙄𝙣𝙙𝙞𝙖
 
-💡 𝑺𝒕𝒊𝒍𝒍 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒃𝒆𝒍𝒐𝒘.
+⊹ 𝑺𝒕𝒊𝒍𝒍 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒃𝒆𝒍𝒐𝒘.
 
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-<a href="https://github.com/sugumaran-nix/fake-job-posting-ml">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=fake-job-posting-ml&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=222222&description_lines_count=2"/>
-</a>
-
-<a href="https://github.com/sugumaran-nix/ai-content-detector">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=ai-content-detector&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=222222&description_lines_count=2"/>
-</a>
-
-<a href="https://github.com/sugumaran-nix/Sketchline-whiteboard">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=Sketchline-whiteboard&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=222222&description_lines_count=2"/>
-</a>
-
-<a href="https://github.com/sugumaran-nix/ProjectScope">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=ProjectScope&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=222222&description_lines_count=2"/>
-</a>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="100%" style="padding: 0 0 12px 0;">
+      <a href="https://github.com/sugumaran-nix/fake-job-posting-ml" style="text-decoration:none;">
+        <table width="100%" cellspacing="0" cellpadding="20" style="background:#0d0d0d;border:1px solid #2a2a2a;border-radius:6px;">
+          <tr>
+            <td>
+              <div style="font-size:16px;font-weight:700;color:#ffffff;font-family:monospace;margin-bottom:6px;">◈ fake-job-posting-ml</div>
+              <div style="font-size:13px;color:#aaaaaa;margin-bottom:10px;">ML classifier that detects fraudulent job postings using NLP pipelines, TF-IDF, and scikit-learn. Deployed on Render.</div>
+              <div style="font-size:12px;color:#666666;font-family:monospace;">Python &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; NLP</div>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" style="padding: 0 0 12px 0;">
+      <a href="https://github.com/sugumaran-nix/ai-content-detector" style="text-decoration:none;">
+        <table width="100%" cellspacing="0" cellpadding="20" style="background:#0d0d0d;border:1px solid #2a2a2a;border-radius:6px;">
+          <tr>
+            <td>
+              <div style="font-size:16px;font-weight:700;color:#ffffff;font-family:monospace;margin-bottom:6px;">◈ ai-content-detector</div>
+              <div style="font-size:13px;color:#aaaaaa;margin-bottom:10px;">Detects AI-generated text using BERT embeddings and fine-tuned classification. React frontend with FastAPI backend.</div>
+              <div style="font-size:12px;color:#666666;font-family:monospace;">Python &nbsp;·&nbsp; BERT &nbsp;·&nbsp; React &nbsp;·&nbsp; FastAPI</div>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" style="padding: 0 0 12px 0;">
+      <a href="https://github.com/sugumaran-nix/Sketchline-whiteboard" style="text-decoration:none;">
+        <table width="100%" cellspacing="0" cellpadding="20" style="background:#0d0d0d;border:1px solid #2a2a2a;border-radius:6px;">
+          <tr>
+            <td>
+              <div style="font-size:16px;font-weight:700;color:#ffffff;font-family:monospace;margin-bottom:6px;">◈ Sketchline-whiteboard</div>
+              <div style="font-size:13px;color:#aaaaaa;margin-bottom:10px;">Real-time collaborative whiteboard with room-based sessions, live cursors, 10 drawing tools, and WebSocket sync. Deployed on Railway + Vercel.</div>
+              <div style="font-size:12px;color:#666666;font-family:monospace;">Next.js &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; WebSockets &nbsp;·&nbsp; Canvas</div>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" style="padding: 0;">
+      <a href="https://github.com/sugumaran-nix/ProjectScope" style="text-decoration:none;">
+        <table width="100%" cellspacing="0" cellpadding="20" style="background:#0d0d0d;border:1px solid #2a2a2a;border-radius:6px;">
+          <tr>
+            <td>
+              <div style="font-size:16px;font-weight:700;color:#ffffff;font-family:monospace;margin-bottom:6px;">◈ ProjectScope</div>
+              <div style="font-size:13px;color:#aaaaaa;margin-bottom:10px;">Project management tool with task tracking, milestone views, and team collaboration built with Next.js and TypeScript.</div>
+              <div style="font-size:12px;color:#666666;font-family:monospace;">Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Tailwind CSS</div>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
