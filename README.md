@@ -6,107 +6,106 @@
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/-sugumaran--portfolio.vercel.app-%23000000?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-sugumaran--portfolio.vercel.app-%23000000?style=flat-square&logo=dev.to&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/sugumaran-nix">
-    <img src="https://img.shields.io/badge/-sugumaran--nix-%23000000?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/sugumaran-nix">
+    <img src="https://img.shields.io/badge/-sugumaran--nix-%23000000?style=flat-square&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/sugumaran-nix">
+    <img src="https://img.shields.io/badge/-sugumaran--nix-%23000000?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
   </a>&nbsp;
   <a href="mailto:sugumarankugan@gmail.com">
     <img src="https://img.shields.io/badge/-sugumarankugan%40gmail.com-%23000000?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-𝑰 ◆ 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑨𝑰-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑾𝒆𝒃 𝑨𝒑𝒑𝒔!
+🛠️ Building AI-Powered Web Apps — full stack, end to end.
 
-◈ Recent MCA graduate from Anna University (2026), passionate about building things that solve real problems. I enjoy working across the full stack — from training ML models and NLP pipelines to deploying clean React frontends and FastAPI backends.
+🎓 MCA 2026 · Anna University | 📍 Coimbatore, India
 
-◆ 𝘼𝙣𝙣𝙖 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 · 𝙈𝘾𝘼 𝟮𝟬𝟮𝟲 | 𝙋𝙮𝙩𝙝𝙤𝙣 𝙡𝙤𝙫𝙚𝙧 | 𝙍𝙚𝙖𝙘𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 | 𝘾𝙤𝙞𝙢𝙗𝙖𝙩𝙤𝙧𝙚, 𝙄𝙣𝙙𝙞𝙖
+I build across the full stack — NLP pipelines, ML classifiers, FastAPI backends, and clean React frontends. Currently open to full-time roles in Full Stack or AI/ML Engineering.
 
-⊹ 𝑺𝒕𝒊𝒍𝒍 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒃𝒆𝒍𝒐𝒘.
+💡 Still learning, always shipping. Explore my projects below.
 
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-<a href="https://github.com/sugumaran-nix/fake-job-posting-ml">
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
-        <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">⬡ sugumaran-nix / fake-job-posting-ml</div>
-        <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:12px;">Machine learning classifier that detects fraudulent job postings using NLP, TF-IDF, and ensemble models. Deployed on Render.</div>
-        <div style="font-size:12px;color:#8b949e;">
-          <img src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=python"/>
-          <img src="https://img.shields.io/badge/Scikit--learn-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=scikitlearn"/>
-          <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
-        </div>
-      </td>
-      <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
-        <img src="https://opengraph.githubassets.com/1/sugumaran-nix/fake-job-posting-ml" width="100%" style="display:block;"/>
-      </td>
-    </tr>
-  </table>
-</a>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:4px;">⬡ fake-job-posting-ml</div>
+      <div style="font-size:12px;color:#58a6ff;margin-bottom:10px;">https://github.com/sugumaran-nix/fake-job-posting-ml</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:12px;">ML classifier that detects fraudulent job postings using NLP, TF-IDF, and ensemble models. Deployed on Render.</div>
+      <div>
+        <img src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=python"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=scikitlearn"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
+      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/fake-job-posting-ml" width="100%" style="display:block;"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/sugumaran-nix/ai-content-detector">
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
-        <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">⬡ sugumaran-nix / ai-content-detector</div>
-        <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:12px;">Detects AI-generated text using BERT embeddings and fine-tuned classification. Clean React frontend with FastAPI backend.</div>
-        <div style="font-size:12px;color:#8b949e;">
-          <img src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=python"/>
-          <img src="https://img.shields.io/badge/BERT-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=huggingface"/>
-          <img src="https://img.shields.io/badge/React-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=react"/>
-        </div>
-      </td>
-      <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
-        <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ai-content-detector" width="100%" style="display:block;"/>
-      </td>
-    </tr>
-  </table>
-</a>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:4px;">⬡ ai-content-detector</div>
+      <div style="font-size:12px;color:#58a6ff;margin-bottom:10px;">https://github.com/sugumaran-nix/ai-content-detector</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:12px;">Detects AI-generated text using BERT embeddings and fine-tuned classification. React frontend with FastAPI backend.</div>
+      <div>
+        <img src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=python"/>
+        <img src="https://img.shields.io/badge/BERT-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=huggingface"/>
+        <img src="https://img.shields.io/badge/React-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=react"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
+      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ai-content-detector" width="100%" style="display:block;"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/sugumaran-nix/Sketchline-whiteboard">
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
-        <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">⬡ sugumaran-nix / Sketchline-whiteboard</div>
-        <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:12px;">Real-time collaborative whiteboard with WebSocket sync, live cursors, 10 drawing tools, and undo/redo. Built with Next.js and FastAPI.</div>
-        <div style="font-size:12px;color:#8b949e;">
-          <img src="https://img.shields.io/badge/Next.js-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=nextdotjs"/>
-          <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
-          <img src="https://img.shields.io/badge/WebSockets-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=socketdotio"/>
-        </div>
-      </td>
-      <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
-        <img src="https://opengraph.githubassets.com/1/sugumaran-nix/Sketchline-whiteboard" width="100%" style="display:block;"/>
-      </td>
-    </tr>
-  </table>
-</a>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:4px;">⬡ Sketchline-whiteboard</div>
+      <div style="font-size:12px;color:#58a6ff;margin-bottom:10px;">https://github.com/sugumaran-nix/Sketchline-whiteboard</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:12px;">Real-time collaborative whiteboard with WebSocket sync, live cursors, 10 drawing tools, and undo/redo. Next.js + FastAPI.</div>
+      <div>
+        <img src="https://img.shields.io/badge/Next.js-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/WebSockets-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=socketdotio"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
+      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/Sketchline-whiteboard" width="100%" style="display:block;"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/sugumaran-nix/ProjectScope">
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
-        <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">⬡ sugumaran-nix / ProjectScope</div>
-        <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:12px;">AI-assisted project scoping tool that breaks down ideas into actionable plans. Full stack with Next.js frontend and FastAPI backend.</div>
-        <div style="font-size:12px;color:#8b949e;">
-          <img src="https://img.shields.io/badge/Next.js-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=nextdotjs"/>
-          <img src="https://img.shields.io/badge/TypeScript-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=typescript"/>
-          <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
-        </div>
-      </td>
-      <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
-        <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ProjectScope" width="100%" style="display:block;"/>
-      </td>
-    </tr>
-  </table>
-</a>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:4px;">⬡ ProjectScope</div>
+      <div style="font-size:12px;color:#58a6ff;margin-bottom:10px;">https://github.com/sugumaran-nix/ProjectScope</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:12px;">AI-assisted project scoping tool that breaks down ideas into actionable plans. Next.js frontend with FastAPI backend.</div>
+      <div>
+        <img src="https://img.shields.io/badge/Next.js-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=typescript"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
+      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ProjectScope" width="100%" style="display:block;"/>
+    </td>
+  </tr>
+</table>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
