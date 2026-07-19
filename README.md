@@ -6,26 +6,54 @@
 
 <br/>
 
-[![](https://img.shields.io/badge/-sugumaran--nix-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sugumaran-nix)
-[![](https://img.shields.io/badge/-sugumaran--nix-%23000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sugumaran-nix)
-[![](https://img.shields.io/badge/-sugumarankugan%40gmail.com-%23000000?style=flat-square&logo=gmail&logoColor=white)](mailto:sugumarankugan@gmail.com)
-[![](https://img.shields.io/badge/-sugumaran--portfolio.vercel.app-%23000000?style=flat-square&logo=vercel&logoColor=white)](https://sugumaran-portfolio.vercel.app)
-[![](https://img.shields.io/website?color=000000&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fsugumaran-portfolio.vercel.app&logo=vercel&logoColor=white)](https://sugumaran-portfolio.vercel.app)
+<p align="center">
+  <a href="https://sugumaran-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/-sugumaran--portfolio.vercel.app-%23000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/sugumaran-nix">
+    <img src="https://img.shields.io/badge/-sugumaran--nix-%23000000?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:sugumarankugan@gmail.com">
+    <img src="https://img.shields.io/badge/-sugumarankugan%40gmail.com-%23000000?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-𝑰 ❤️ 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝑾𝒆𝒃 𝑨𝒑𝒑𝒔!
+𝑰 ❤️ 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑨𝑰-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑾𝒆𝒃 𝑨𝒑𝒑𝒔!
 
-:computer: A full-stack developer and AI/ML engineer who ships end-to-end production systems — from NLP pipelines and ML fraud detectors to real-time collaborative WebSocket apps and clean React frontends.
+:computer: Recent MCA graduate from Anna University (2026), passionate about building things that solve real problems. I enjoy working across the full stack — from training ML models and NLP pipelines to deploying clean React frontends and FastAPI backends.
 
-🧠 𝙀𝙭𝙥𝙡𝙖𝙞𝙣𝙖𝙗𝙡𝙚 𝘼𝙄 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 | 🐍 𝙋𝙮𝙩𝙝𝙤𝙣 𝙡𝙤𝙫𝙚𝙧 | ⚛️ 𝙍𝙚𝙖𝙘𝙩 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🌏 𝘾𝙤𝙞𝙢𝙗𝙖𝙩𝙤𝙧𝙚, 𝙄𝙣𝙙𝙞𝙖
+🎓 𝘼𝙣𝙣𝙖 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 · 𝙈𝘾𝘼 𝟮𝟬𝟮𝟲 | 🐍 𝙋𝙮𝙩𝙝𝙤𝙣 𝙡𝙤𝙫𝙚𝙧 | ⚛️ 𝙍𝙚𝙖𝙘𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 | 🌏 𝘾𝙤𝙞𝙢𝙗𝙖𝙩𝙤𝙧𝙚, 𝙄𝙣𝙙𝙞𝙖
 
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒄𝒍𝒆𝒂𝒏 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒔𝒉𝒊𝒑𝒑𝒊𝒏𝒈 𝒇𝒂𝒔𝒕. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒃𝒆𝒍𝒐𝒘.
+💡 𝑺𝒕𝒊𝒍𝒍 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒃𝒆𝒍𝒐𝒘.
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-[![Fake Job Detector](https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/fake-job-posting-ml&mode=dark&style=horizontal)](https://github.com/sugumaran-nix/fake-job-posting-ml)
-[![AI Text Detector](https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/ai-content-detector&mode=dark&style=horizontal)](https://github.com/sugumaran-nix/ai-content-detector)
-[![Sketchline Whiteboard](https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/Sketchline-whiteboard&mode=dark&style=horizontal)](https://github.com/sugumaran-nix/Sketchline-whiteboard)
-[![ProjectScope](https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/ProjectScope&mode=dark&style=horizontal)](https://github.com/sugumaran-nix/ProjectScope)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/sugumaran-nix/fake-job-posting-ml">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/fake-job-posting-ml&mode=dark&style=horizontal" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sugumaran-nix/ai-content-detector">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/ai-content-detector&mode=dark&style=horizontal" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/sugumaran-nix/Sketchline-whiteboard">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/Sketchline-whiteboard&mode=dark&style=horizontal" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sugumaran-nix/ProjectScope">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/ProjectScope&mode=dark&style=horizontal" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
@@ -68,16 +96,25 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![sugumaran-nix's github stats](https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&include_all_commits=true&rank_icon=github)
+![sugumaran-nix's github stats](https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sugumaran-nix&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sugumaran-nix&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=6)
 
-![Streak](https://streak-stats.demolab.com?user=sugumaran-nix&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
+![Streak](https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff&stroke=000000)
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="./footer.svg" alt="footer" width="100%"/>
+</div>
+  Then: Actions tab → Generate Snake → Run workflow
+=================================================================
+-->
