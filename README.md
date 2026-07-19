@@ -1,5 +1,3 @@
-<h1 align="center">👋</h1>
-
 <div align="center">
   <img src="./header.svg" alt="header" width="100%"/>
 </div>
@@ -28,32 +26,21 @@
 
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/sugumaran-nix/fake-job-posting-ml">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/fake-job-posting-ml&mode=dark&style=horizontal" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/sugumaran-nix/ai-content-detector">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/ai-content-detector&mode=dark&style=horizontal" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/sugumaran-nix/Sketchline-whiteboard">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/Sketchline-whiteboard&mode=dark&style=horizontal" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/sugumaran-nix/ProjectScope">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/sugumaran-nix/ProjectScope&mode=dark&style=horizontal" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/sugumaran-nix/fake-job-posting-ml">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=fake-job-posting-ml&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=222222&description_lines_count=2"/>
+</a>
+
+<a href="https://github.com/sugumaran-nix/ai-content-detector">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=ai-content-detector&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=222222&description_lines_count=2"/>
+</a>
+
+<a href="https://github.com/sugumaran-nix/Sketchline-whiteboard">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=Sketchline-whiteboard&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=222222&description_lines_count=2"/>
+</a>
+
+<a href="https://github.com/sugumaran-nix/ProjectScope">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=ProjectScope&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=222222&description_lines_count=2"/>
+</a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
@@ -96,11 +83,11 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![sugumaran-nix's github stats](https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sugumaran-nix&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=6)
-
 ![Streak](https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff&stroke=000000)
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&radius=6"/>
+</div>
 
 <div align="center">
   <picture>
