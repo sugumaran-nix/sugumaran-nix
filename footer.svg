@@ -1,10 +1,10 @@
 <svg viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg" width="100%">
   <rect width="900" height="70" fill="#000000"/>
-  <line x1="60" y1="18" x2="840" y2="18" stroke="#1f1f1f" stroke-width="0.8"/>
+  <line x1="60" y1="18" x2="840" y2="18" stroke="#333333" stroke-width="0.8"/>
   <text
     x="450" y="46"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
-    font-size="12" font-weight="400" letter-spacing="1.5"
-    fill="#3a3a3a">crafted by sugumaran-nix  ·  coimbatore, india  ·  2026</text>
+    font-size="13" font-weight="500" letter-spacing="1.5"
+    fill="#ffffff">crafted by sugumaran-nix  ·  coimbatore, india  ·  2026</text>
 </svg>
