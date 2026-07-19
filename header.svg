@@ -1,0 +1,111 @@
+<svg viewBox="0 0 900 290" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <style>
+    .role {
+      transform-box: fill-box;
+      transform-origin: 50% 50%;
+      opacity: 0;
+    }
+    @keyframes r1 {
+      0%    { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      5%    { opacity:1; transform:perspective(600px) rotateX(0deg);   filter:blur(0px); }
+      20%   { opacity:1; transform:perspective(600px) rotateX(0deg);   filter:blur(0px); }
+      25%   { opacity:0; transform:perspective(600px) rotateX(-90deg); filter:blur(6px); }
+      25.1% { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      100%  { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+    }
+    @keyframes r2 {
+      0%    { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      25%   { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      30%   { opacity:1; transform:perspective(600px) rotateX(0deg);   filter:blur(0px); }
+      45%   { opacity:1; transform:perspective(600px) rotateX(0deg);   filter:blur(0px); }
+      50%   { opacity:0; transform:perspective(600px) rotateX(-90deg); filter:blur(6px); }
+      50.1% { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      100%  { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+    }
+    @keyframes r3 {
+      0%    { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      50%   { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      55%   { opacity:1; transform:perspective(600px) rotateX(0deg);   filter:blur(0px); }
+      70%   { opacity:1; transform:perspective(600px) rotateX(0deg);   filter:blur(0px); }
+      75%   { opacity:0; transform:perspective(600px) rotateX(-90deg); filter:blur(6px); }
+      75.1% { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      100%  { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+    }
+    @keyframes r4 {
+      0%   { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      75%  { opacity:0; transform:perspective(600px) rotateX(90deg);  filter:blur(6px); }
+      80%  { opacity:1; transform:perspective(600px) rotateX(0deg);   filter:blur(0px); }
+      95%  { opacity:1; transform:perspective(600px) rotateX(0deg);   filter:blur(0px); }
+      100% { opacity:0; transform:perspective(600px) rotateX(-90deg); filter:blur(6px); }
+    }
+    .r1 { animation: r1 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
+    .r2 { animation: r2 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
+    .r3 { animation: r3 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
+    .r4 { animation: r4 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
+
+    .hdg { animation: fadeDown 0.7s ease forwards; }
+    .tch { animation: fadeUp   0.7s ease 0.35s forwards; opacity:0; }
+    .div { animation: expand  0.5s ease 0.15s forwards;
+           transform-box:fill-box; transform-origin:50% 50%;
+           transform:scaleX(0); opacity:0; }
+    @keyframes fadeDown {
+      from { opacity:0; transform:translateY(-14px); }
+      to   { opacity:1; transform:translateY(0); }
+    }
+    @keyframes fadeUp {
+      from { opacity:0; transform:translateY(14px); }
+      to   { opacity:1; transform:translateY(0); }
+    }
+    @keyframes expand {
+      from { opacity:0; transform:scaleX(0); }
+      to   { opacity:1; transform:scaleX(1); }
+    }
+  </style>
+
+  <rect width="900" height="290" fill="#000000"/>
+
+  <text class="hdg"
+    x="450" y="100"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="50" font-weight="700" letter-spacing="-0.5"
+    fill="#ffffff">Hello, I'm Sugumaran!</text>
+
+  <line class="div" x1="60" y1="126" x2="840" y2="126"
+    stroke="#2a2a2a" stroke-width="1"/>
+
+  <text class="role r1"
+    x="450" y="178"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="17" font-weight="400" letter-spacing="4"
+    fill="#888888">MCA GRADUATE  ·  2026</text>
+
+  <text class="role r2"
+    x="450" y="178"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="17" font-weight="400" letter-spacing="4"
+    fill="#888888">FULL STACK DEVELOPER</text>
+
+  <text class="role r3"
+    x="450" y="178"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="17" font-weight="400" letter-spacing="4"
+    fill="#888888">AI / ML ENTHUSIAST</text>
+
+  <text class="role r4"
+    x="450" y="178"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="17" font-weight="400" letter-spacing="4"
+    fill="#888888">OPEN TO WORK</text>
+
+  <text class="tch"
+    x="450" y="240"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="13" font-weight="700" letter-spacing="1.5"
+    fill="#4a4a4a">Python  ·  Flask  ·  FastAPI  ·  React  ·  Next.js  ·  NLP  ·  WebSockets</text>
+</svg>
