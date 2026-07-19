@@ -1,4 +1,4 @@
-<svg viewBox="0 0 900 290" xmlns="http://www.w3.org/2000/svg" width="100%">
+<svg viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" width="100%">
   <style>
     .role {
       transform-box: fill-box;
@@ -42,7 +42,6 @@
     .r2 { animation: r2 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
     .r3 { animation: r3 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
     .r4 { animation: r4 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
-
     .hdg { animation: fadeDown 0.7s ease forwards; }
     .tch { animation: fadeUp   0.7s ease 0.35s forwards; opacity:0; }
     .div { animation: expand  0.5s ease 0.15s forwards;
@@ -62,50 +61,53 @@
     }
   </style>
 
-  <rect width="900" height="290" fill="#000000"/>
+  <rect width="900" height="380" fill="#000000"/>
 
+  <!-- "Hello, I'm Sugumaran!" — untouched size, repositioned -->
   <text class="hdg"
-    x="450" y="100"
+    x="450" y="118"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
-    font-size="50" font-weight="700" letter-spacing="-0.5"
+    font-size="52" font-weight="700" letter-spacing="-0.5"
     fill="#ffffff">Hello, I'm Sugumaran!</text>
 
-  <line class="div" x1="60" y1="126" x2="840" y2="126"
-    stroke="#333333" stroke-width="1"/>
+  <line class="div" x1="60" y1="148" x2="840" y2="148"
+    stroke="#333333" stroke-width="1.5"/>
 
+  <!-- Rotating roles: target ~20px mobile = 48px SVG -->
   <text class="role r1"
-    x="450" y="178"
+    x="450" y="222"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
-    font-size="19" font-weight="600" letter-spacing="4"
+    font-size="48" font-weight="700" letter-spacing="4"
     fill="#ffffff">MCA GRADUATE  ·  2026</text>
 
   <text class="role r2"
-    x="450" y="178"
+    x="450" y="222"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
-    font-size="19" font-weight="600" letter-spacing="4"
+    font-size="48" font-weight="700" letter-spacing="4"
     fill="#ffffff">FULL STACK DEVELOPER</text>
 
   <text class="role r3"
-    x="450" y="178"
+    x="450" y="222"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
-    font-size="19" font-weight="600" letter-spacing="4"
+    font-size="48" font-weight="700" letter-spacing="4"
     fill="#ffffff">AI / ML ENTHUSIAST</text>
 
   <text class="role r4"
-    x="450" y="178"
+    x="450" y="222"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
-    font-size="19" font-weight="600" letter-spacing="4"
+    font-size="48" font-weight="700" letter-spacing="4"
     fill="#ffffff">OPEN TO WORK</text>
 
+  <!-- Tech stack: target ~16px mobile = 38px SVG -->
   <text class="tch"
-    x="450" y="240"
+    x="450" y="318"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
-    font-size="14" font-weight="600" letter-spacing="1.5"
-    fill="#ffffff">Python  ·  Flask  ·  FastAPI  ·  React  ·  Next.js  ·  NLP  ·  WebSockets</text>
+    font-size="38" font-weight="600" letter-spacing="2"
+    fill="#ffffff">Python · FastAPI · React · Next.js · NLP</text>
 </svg>
