@@ -115,6 +115,3 @@
 <div align="center">
   <img src="./footer.svg" alt="footer" width="100%"/>
 </div>
-  Then: Actions tab → Generate Snake → Run workflow
-=================================================================
--->
