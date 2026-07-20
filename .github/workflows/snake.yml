@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: sugumaran-nix
           outputs: |
-  dist/github-contribution-grid-snake.svg?color_snake=ffffff&color_dots=#111111,#333333,#555555,#888888,#ffffff
-  dist/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=#111111,#333333,#555555,#888888,#ffffff
+            dist/github-contribution-grid-snake.svg?color_snake=ffffff&color_dots=#111111,#333333,#555555,#888888,#ffffff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=#111111,#333333,#555555,#888888,#ffffff
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
