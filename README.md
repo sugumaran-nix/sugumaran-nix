@@ -1,9 +1,4 @@
-<!-- HEADER: browser picks mobile SVG below 480px, desktop above -->
-<picture>
-  <source media="(max-width: 480px)" srcset="./header-mobile.svg"/>
-  <img src="./header-desktop.svg" width="100%" alt="header"/>
-</picture>
-
+<img src="./header.svg" width="100%" alt="header"/>
 <br/>
 
 <p align="center">
