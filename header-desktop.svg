@@ -43,7 +43,7 @@
     .r3 { animation: r3 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
     .r4 { animation: r4 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
     .hdg { animation: fadeDown 0.7s ease forwards; }
-    .tch { animation: fadeUp 0.7s ease 0.35s forwards; opacity:0; }
+    .tch { animation: fadeUp 0.7s ease 0.4s forwards; opacity:0; }
     .div { animation: expand 0.5s ease 0.15s forwards;
            transform-box:fill-box; transform-origin:50% 50%;
            transform:scaleX(0); opacity:0; }
@@ -59,11 +59,17 @@
       from { opacity:0; transform:scaleX(0); }
       to   { opacity:1; transform:scaleX(1); }
     }
+
+    /* Fine-tune for mid-range screens inside this SVG */
+    @media (max-width: 650px) {
+      .hdg  { font-size: 48px !important; }
+      .role { font-size: 19px !important; }
+      .tch  { font-size: 14px !important; }
+    }
   </style>
 
   <rect width="900" height="300" fill="#000000"/>
 
-  <!-- Heading: 60px, safe width ~714px ✓ -->
   <text class="hdg"
     x="450" y="105"
     text-anchor="middle"
@@ -71,11 +77,9 @@
     font-size="60" font-weight="700" letter-spacing="-0.5"
     fill="#ffffff">Hello, I'm Sugumaran!</text>
 
-  <!-- Divider: #444444 — visible contrast ✓ -->
   <line class="div" x1="80" y1="132" x2="820" y2="132"
     stroke="#444444" stroke-width="1"/>
 
-  <!-- Roles: 24px -->
   <text class="role r1"
     x="450" y="188"
     text-anchor="middle"
@@ -104,7 +108,7 @@
     font-size="24" font-weight="500" letter-spacing="5"
     fill="#ffffff">OPEN TO WORK</text>
 
-  <!-- Tech line: shortened to fit 900px — ~720px rendered width ✓ -->
+  <!-- Tech line: ~725px, safely within 900px -->
   <text class="tch"
     x="450" y="252"
     text-anchor="middle"

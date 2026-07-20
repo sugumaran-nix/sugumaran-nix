@@ -1,0 +1,113 @@
+<svg viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <style>
+    .role {
+      transform-box: fill-box;
+      transform-origin: 50% 50%;
+      opacity: 0;
+    }
+    @keyframes r1 {
+      0%    { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      6%    { opacity:1; transform:perspective(400px) rotateX(0deg);   filter:blur(0px); }
+      20%   { opacity:1; transform:perspective(400px) rotateX(0deg);   filter:blur(0px); }
+      26%   { opacity:0; transform:perspective(400px) rotateX(-90deg); filter:blur(5px); }
+      26.1% { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      100%  { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+    }
+    @keyframes r2 {
+      0%    { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      25%   { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      31%   { opacity:1; transform:perspective(400px) rotateX(0deg);   filter:blur(0px); }
+      45%   { opacity:1; transform:perspective(400px) rotateX(0deg);   filter:blur(0px); }
+      51%   { opacity:0; transform:perspective(400px) rotateX(-90deg); filter:blur(5px); }
+      51.1% { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      100%  { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+    }
+    @keyframes r3 {
+      0%    { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      50%   { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      56%   { opacity:1; transform:perspective(400px) rotateX(0deg);   filter:blur(0px); }
+      70%   { opacity:1; transform:perspective(400px) rotateX(0deg);   filter:blur(0px); }
+      76%   { opacity:0; transform:perspective(400px) rotateX(-90deg); filter:blur(5px); }
+      76.1% { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      100%  { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+    }
+    @keyframes r4 {
+      0%   { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      75%  { opacity:0; transform:perspective(400px) rotateX(90deg);  filter:blur(5px); }
+      81%  { opacity:1; transform:perspective(400px) rotateX(0deg);   filter:blur(0px); }
+      95%  { opacity:1; transform:perspective(400px) rotateX(0deg);   filter:blur(0px); }
+      100% { opacity:0; transform:perspective(400px) rotateX(-90deg); filter:blur(5px); }
+    }
+    .r1 { animation: r1 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
+    .r2 { animation: r2 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
+    .r3 { animation: r3 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
+    .r4 { animation: r4 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite; }
+    .hdg { animation: fadeDown 0.7s ease forwards; }
+    .sub { animation: fadeUp  0.7s ease 0.3s forwards; opacity:0; }
+    .div { animation: expand 0.5s ease 0.15s forwards;
+           transform-box:fill-box; transform-origin:50% 50%;
+           transform:scaleX(0); opacity:0; }
+    @keyframes fadeDown {
+      from { opacity:0; transform:translateY(-12px); }
+      to   { opacity:1; transform:translateY(0); }
+    }
+    @keyframes fadeUp {
+      from { opacity:0; transform:translateY(12px); }
+      to   { opacity:1; transform:translateY(0); }
+    }
+    @keyframes expand {
+      from { opacity:0; transform:scaleX(0); }
+      to   { opacity:1; transform:scaleX(1); }
+    }
+  </style>
+
+  <rect width="480" height="260" fill="#000000"/>
+
+  <!-- Heading: 34px — ~406px wide, fits 480px viewBox -->
+  <text class="hdg"
+    x="240" y="88"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="34" font-weight="700" letter-spacing="-0.3"
+    fill="#ffffff">Hello, I'm Sugumaran!</text>
+
+  <line class="div" x1="40" y1="110" x2="440" y2="110"
+    stroke="#444444" stroke-width="0.8"/>
+
+  <!-- Roles: 20px with tighter letter-spacing for narrow canvas -->
+  <text class="role r1"
+    x="240" y="158"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="20" font-weight="500" letter-spacing="3"
+    fill="#ffffff">MCA GRADUATE  ·  2026</text>
+
+  <text class="role r2"
+    x="240" y="158"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="20" font-weight="500" letter-spacing="3"
+    fill="#ffffff">FULL STACK DEVELOPER</text>
+
+  <text class="role r3"
+    x="240" y="158"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="20" font-weight="500" letter-spacing="3"
+    fill="#ffffff">AI / ML ENTHUSIAST</text>
+
+  <text class="role r4"
+    x="240" y="158"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="20" font-weight="500" letter-spacing="3"
+    fill="#ffffff">OPEN TO WORK</text>
+
+  <!-- Subtitle replaces tech line — short, fits narrow canvas -->
+  <text class="sub"
+    x="240" y="215"
+    text-anchor="middle"
+    font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
+    font-size="14" font-weight="600" letter-spacing="2"
+    fill="#888888">Coimbatore, India  ·  Open to Work</text>
+</svg>
