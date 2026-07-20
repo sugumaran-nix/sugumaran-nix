@@ -31,7 +31,9 @@ I ♡ Building AI-Powered Web Apps (yes, another one of those guys)
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
-      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/>Fake Job Posting Detection using ML</div>
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">
+        <h3>Fake Job Posting Detection using ML</h3>
+      </div>
       <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Tired of fake job postings? Built a classifier that catches them. NLP + TF-IDF + ensemble models. Deployed on Render because Heroku did what Heroku does.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2Ffake--job--posting--ml-%23000000?style=flat-square&logo=github&logoColor=white"/>
@@ -53,7 +55,9 @@ I ♡ Building AI-Powered Web Apps (yes, another one of those guys)
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
-      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> AI Generated Content Detector</div>
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">
+        <h3>AI Generated Content Detector</h3>
+      </div>
       <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Detects AI-generated text before your professor does. BERT embeddings, fine-tuned classifier, FastAPI backend, vanilla JS frontend. No GPU needed..</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2Fai--content--detector-%23000000?style=flat-square&logo=github&logoColor=white"/>
@@ -75,7 +79,9 @@ I ♡ Building AI-Powered Web Apps (yes, another one of those guys)
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
-      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/>Realtime Colaborative Whiteboard</div>
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">
+        <h3>Realtime Colaborative Whiteboard</h3>
+      </div>
       <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Real-time collaborative whiteboard — multiplayer drawing with live cursors, WebSocket sync, 10 tools, undo/redo. Built from scratch. No drawing library. Yes, really.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2FSketchline--whiteboard-%23000000?style=flat-square&logo=github&logoColor=white"/>
@@ -97,7 +103,9 @@ I ♡ Building AI-Powered Web Apps (yes, another one of those guys)
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
-      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> ProjectScope</div>
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">
+        <h3>ProjectScope</h3>
+      </div>
       <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">AI that breaks your vague project idea into an actual plan. Powered by LLMs, built with Next.js + FastAPI. For people who have ideas but no roadmap.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2FProjectScope-%23000000?style=flat-square&logo=github&logoColor=white"/>
