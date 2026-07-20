@@ -16,13 +16,13 @@
 
 <br/>
 
-𝑰 ❤️ 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑨𝑰-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑾𝒆𝒃 𝑨𝒑𝒑𝒔!
+I ♡ Building AI-Powered Web Apps (yes, another one of those guys)
 
-:computer: Recent MCA graduate from Anna University (2026), passionate about building things that solve real problems. I enjoy working across the full stack — from training ML models and NLP pipelines to deploying clean React frontends and FastAPI backends.
+𝘙𝘦𝘤𝘦𝘯𝘵 𝘔𝘊𝘈 𝘨𝘳𝘢𝘥 𝘧𝘳𝘰𝘮 𝘈𝘯𝘯𝘢 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 (2026). 𝘐 𝘣𝘶𝘪𝘭𝘥 𝘧𝘶𝘭𝘭-𝘴𝘵𝘢𝘤𝘬 𝘈𝘐 𝘢𝘱𝘱𝘴 — 𝘵𝘩𝘦 𝘬𝘪𝘯𝘥 𝘵𝘩𝘢𝘵 𝘢𝘤𝘵𝘶𝘢𝘭𝘭𝘺 𝘥𝘰 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘶𝘴𝘦𝘨𝘶𝘭, 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘩𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥 𝘸𝘪𝘵𝘩 𝘢 𝘯𝘦𝘶𝘳𝘢𝘭 𝘯𝘦𝘵𝘸𝘰𝘳𝘬 𝘴𝘭𝘢𝘱𝘱𝘦𝘥 𝘰𝘯.
 
-🎓 Anna University · MCA 2026 &nbsp;|&nbsp; 🐍 Python lover &nbsp;|&nbsp; ⚛️ React builder &nbsp;|&nbsp; 🌏 Coimbatore, India
+𝘼𝙣𝙣𝙖 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 · 𝙈𝘾𝘼 𝟮𝟬𝟮𝟲 &nbsp;|&nbsp; 𝙋𝙮𝙩𝙝𝙤𝙣 𝙡𝙤𝙫𝙚𝙧 &nbsp;|&nbsp; 𝙍𝙚𝙖𝙘𝙩 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 &nbsp;|&nbsp; 𝘾𝙤𝙞𝙢𝙗𝙖𝙩𝙤𝙧𝙚, 𝙄𝙣𝙙𝙞𝙖
 
-💡 𝑺𝒕𝒊𝒍𝒍 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒃𝒆𝒍𝒐𝒘.
+𝑺𝒕𝒊𝒍𝒍 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒔𝒉𝒊𝒑𝒑𝒊𝒏𝒈. 𝑴𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒂𝒓𝒆 𝒃𝒆𝒍𝒐𝒘 — 𝒕𝒉𝒆𝒚'𝒓𝒆 𝒓𝒆𝒂𝒍, 𝒕𝒉𝒆𝒚'𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒆𝒅, 𝒂𝒏𝒅 𝒕𝒉𝒆𝒚 𝒘𝒐𝒓𝒌 (𝒎𝒐𝒔𝒕 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒊𝒎𝒆).𝒐𝒋𝒆𝒄𝒕𝒔 𝒃𝒆𝒍𝒐𝒘.
 
 ---
 
@@ -32,7 +32,7 @@
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
       <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> fake-job-posting-ml</div>
-      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">ML classifier that detects fraudulent job postings using NLP, TF-IDF, and ensemble models. Deployed on Render.</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Tired of fake job postings? Built a classifier that catches them. NLP + TF-IDF + ensemble models. Deployed on Render because Heroku did what Heroku does.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2Ffake--job--posting--ml-%23000000?style=flat-square&logo=github&logoColor=white"/>
       </div>
@@ -54,7 +54,7 @@
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
       <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> ai-content-detector</div>
-      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Detects AI-generated text using BERT embeddings and fine-tuned classification. React frontend with FastAPI backend.</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Detects AI-generated text before your professor does. BERT embeddings, fine-tuned classifier, FastAPI backend, vanilla JS frontend. No GPU needed..</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2Fai--content--detector-%23000000?style=flat-square&logo=github&logoColor=white"/>
       </div>
@@ -76,7 +76,7 @@
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
       <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> Sketchline-whiteboard</div>
-      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Real-time collaborative whiteboard with WebSocket sync, live cursors, 10 drawing tools, and undo/redo. Next.js + FastAPI.</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Real-time collaborative whiteboard — multiplayer drawing with live cursors, WebSocket sync, 10 tools, undo/redo. Built from scratch. No drawing library. Yes, really.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2FSketchline--whiteboard-%23000000?style=flat-square&logo=github&logoColor=white"/>
       </div>
@@ -98,7 +98,7 @@
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
       <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> ProjectScope</div>
-      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">AI-assisted project scoping tool that breaks down ideas into actionable plans. Next.js frontend with FastAPI backend.</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">AI that breaks your vague project idea into an actual plan. Powered by LLMs, built with Next.js + FastAPI. For people who have ideas but no roadmap.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2FProjectScope-%23000000?style=flat-square&logo=github&logoColor=white"/>
       </div>
