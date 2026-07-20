@@ -33,21 +33,91 @@
 
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-<a href="https://github.com/sugumaran-nix/fake-job-posting-ml">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=fake-job-posting-ml&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=333333&border_radius=10&description_lines_count=2"/>
-</a>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> fake-job-posting-ml</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">ML classifier that detects fraudulent job postings using NLP, TF-IDF, and ensemble models. Deployed on Render.</div>
+      <div style="margin-bottom:10px;">
+        <img src="https://img.shields.io/badge/-sugumaran--nix%2Ffake--job--posting--ml-%23000000?style=flat-square&logo=github&logoColor=white"/>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=python"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=scikitlearn"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
+      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/fake-job-posting-ml" width="100%" style="display:block;"/>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/sugumaran-nix/ai-content-detector">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=ai-content-detector&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=333333&border_radius=10&description_lines_count=2"/>
-</a>
+<br/>
 
-<a href="https://github.com/sugumaran-nix/Sketchline-whiteboard">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=Sketchline-whiteboard&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=333333&border_radius=10&description_lines_count=2"/>
-</a>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> ai-content-detector</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Detects AI-generated text using BERT embeddings and fine-tuned classification. React frontend with FastAPI backend.</div>
+      <div style="margin-bottom:10px;">
+        <img src="https://img.shields.io/badge/-sugumaran--nix%2Fai--content--detector-%23000000?style=flat-square&logo=github&logoColor=white"/>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=python"/>
+        <img src="https://img.shields.io/badge/BERT-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=huggingface"/>
+        <img src="https://img.shields.io/badge/React-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=react"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
+      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ai-content-detector" width="100%" style="display:block;"/>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/sugumaran-nix/ProjectScope">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sugumaran-nix&repo=ProjectScope&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_color=333333&border_radius=10&description_lines_count=2"/>
-</a>
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> Sketchline-whiteboard</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Real-time collaborative whiteboard with WebSocket sync, live cursors, 10 drawing tools, and undo/redo. Next.js + FastAPI.</div>
+      <div style="margin-bottom:10px;">
+        <img src="https://img.shields.io/badge/-sugumaran--nix%2FSketchline--whiteboard-%23000000?style=flat-square&logo=github&logoColor=white"/>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Next.js-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/WebSockets-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=socketdotio"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
+      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/Sketchline-whiteboard" width="100%" style="display:block;"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
+      <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;"><img src="https://img.shields.io/badge/--%23000000?style=flat-square&logo=github&logoColor=white" height="16" style="vertical-align:middle;margin-right:6px;"/> ProjectScope</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">AI-assisted project scoping tool that breaks down ideas into actionable plans. Next.js frontend with FastAPI backend.</div>
+      <div style="margin-bottom:10px;">
+        <img src="https://img.shields.io/badge/-sugumaran--nix%2FProjectScope-%23000000?style=flat-square&logo=github&logoColor=white"/>
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Next.js-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=typescript"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
+      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ProjectScope" width="100%" style="display:block;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
