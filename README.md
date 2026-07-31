@@ -16,15 +16,11 @@
 
 <br/>
 
-𝘙𝘦𝘤𝘦𝘯𝘵 𝘔𝘊𝘈 𝘨𝘳𝘢𝘥 𝘧𝘳𝘰𝘮 𝘈𝘯𝘯𝘢 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 (2026). 𝘐 𝘣𝘶𝘪𝘭𝘥 𝘧𝘶𝘭𝘭-𝘴𝘵𝘢𝘤𝘬 𝘈𝘐 𝘢𝘱𝘱𝘴 — 𝘵𝘩𝘦 𝘬𝘪𝘯𝘥 𝘵𝘩𝘢𝘵 𝘢𝘤𝘵𝘶𝘢𝘭𝘭𝘺 𝘥𝘰 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘶𝘴𝘦f𝘶𝘭, 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘩𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥 𝘸𝘪𝘵𝘩 𝘢 𝘯𝘦𝘶𝘳𝘢𝘭 𝘯𝘦𝘵𝘸𝘰𝘳𝘬 𝘴𝘭𝘢𝘱𝘱𝘦𝘥 𝘰𝘯.
-
-𝘼𝙣𝙣𝙖 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 · 𝙈𝘾𝘼 𝟮𝟬𝟮𝟲 &nbsp;|&nbsp; 𝘾𝙤𝙞𝙢𝙗𝙖𝙩𝙤𝙧𝙚, 𝙄𝙣𝙙𝙞𝙖
-
-𝑺𝒕𝒊𝒍𝒍 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒔𝒉𝒊𝒑𝒑𝒊𝒏𝒈. 𝑴𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒂𝒓𝒆 𝒃𝒆𝒍𝒐𝒘 — 𝒕𝒉𝒆𝒚'𝒓𝒆 𝒓𝒆𝒂𝒍, 𝒕𝒉𝒆𝒚'𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒆𝒅, 𝒂𝒏𝒅 𝒕𝒉𝒆𝒚 𝒘𝒐𝒓𝒌 (𝒎𝒐𝒔𝒕 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒊𝒎𝒆).
+MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps — from model to frontend.
 
 ---
 
-### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+### Projects
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -32,14 +28,14 @@
       <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">
         <h3>Fake Job Posting Detection using ML</h3>
       </div>
-      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Tired of fake job postings? Built a classifier that catches them. NLP + TF-IDF + ensemble models. Deployed on Render because Heroku did what Heroku does.</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Job seekers waste time applying to fraudulent listings. This classifier catches them first — benchmarked 4 ML models on 17,880 real-world postings, 87.57% Fraud F1-score on a heavily imbalanced dataset, SHAP-style explainability, runtime model switching. Sub-800ms end-to-end.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2Ffake--job--posting--ml-%23000000?style=flat-square&logo=github&logoColor=white"/>
       </div>
       <div>
         <img src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=python"/>
         <img src="https://img.shields.io/badge/Scikit--learn-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=scikitlearn"/>
-        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/Flask-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=flask"/>
       </div>
     </td>
     <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
@@ -56,13 +52,13 @@
       <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">
         <h3>AI Generated Content Detector</h3>
       </div>
-      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Detects AI-generated text before your professor does. BERT embeddings, fine-tuned classifier, FastAPI backend, vanilla JS frontend. No GPU needed..</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Statistical classifier that distinguishes human-written from AI-generated text using perplexity, burstiness, and sentence-level variance. Highlights exact spans flagged as machine-generated with per-sentence confidence scores. Served via FastAPI.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2Fai--content--detector-%23000000?style=flat-square&logo=github&logoColor=white"/>
       </div>
       <div>
         <img src="https://img.shields.io/badge/Python-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=python"/>
-        <img src="https://img.shields.io/badge/BERT-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=huggingface"/>
+        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
         <img src="https://img.shields.io/badge/React-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=react"/>
       </div>
     </td>
@@ -78,9 +74,9 @@
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
       <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">
-        <h3>Realtime Colaborative Whiteboard</h3>
+        <h3>Sketchline — Real-Time Collaborative Whiteboard</h3>
       </div>
-      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Real-time collaborative whiteboard — multiplayer drawing with live cursors, WebSocket sync, 10 tools, undo/redo. Built from scratch. No drawing library. Yes, really.</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Collaborative tools break when multiple people draw at once. Sketchline handles it — FastAPI WebSocket backend manages room state, stroke history, and multi-client broadcast via a 7-message-type JSON protocol. Sub-100ms stroke sync, board-state replay on reconnect, live cursor presence at 20 fps. No drawing library.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2FSketchline--whiteboard-%23000000?style=flat-square&logo=github&logoColor=white"/>
       </div>
@@ -102,16 +98,16 @@
   <tr>
     <td width="65%" valign="top" style="padding:16px 20px;background:#0d1117;border:1px solid #30363d;border-right:none;border-radius:6px 0 0 6px;">
       <div style="font-size:16px;font-weight:700;color:#ffffff;margin-bottom:8px;">
-        <h3>ProjectScope</h3>
+        <h3>ProjectScope — Eisenhower Matrix Task Manager</h3>
       </div>
-      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">AI that breaks your vague project idea into an actual plan. Powered by LLMs, built with Next.js + FastAPI. For people who have ideas but no roadmap.</div>
+      <div style="font-size:14px;color:#8b949e;line-height:1.5;margin-bottom:10px;">Most task apps dump everything in one list. ProjectScope forces prioritisation — drag-and-drop quadrant layout built in React.js + TypeScript with dnd-kit, keyboard-accessible interactions, cross-tab localStorage sync.</div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/-sugumaran--nix%2FProjectScope-%23000000?style=flat-square&logo=github&logoColor=white"/>
       </div>
       <div>
-        <img src="https://img.shields.io/badge/Next.js-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/React.js-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=react"/>
         <img src="https://img.shields.io/badge/TypeScript-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=typescript"/>
-        <img src="https://img.shields.io/badge/FastAPI-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-%23ffffff?style=flat-square&labelColor=161b22&color=161b22&logoColor=ffffff&logo=tailwindcss"/>
       </div>
     </td>
     <td width="35%" valign="middle" style="background:#161b22;border:1px solid #30363d;border-left:none;border-radius:0 6px 6px 0;overflow:hidden;">
@@ -122,7 +118,7 @@
 
 ---
 
-### 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### Tech Stack
 
 **Languages**
 
@@ -175,7 +171,7 @@
 
 ---
 
-### 𝗦𝘁𝗮𝘁𝘀
+### Stats
 
 <div align="center">
 
