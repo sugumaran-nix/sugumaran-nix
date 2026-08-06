@@ -5,7 +5,7 @@
       font-size: 16px;
       font-weight: 400;
       letter-spacing: 2;
-      fill: #6B5B36;
+      fill: #555555;
     }
     /* Mobile: bump font-size so it stays readable when SVG is narrow */
     @media (max-width: 480px) {
@@ -28,10 +28,10 @@
     }
   </style>
 
-  <rect width="900" height="80" fill="#F7F2E7"/>
-  <line class="ln" x1="60" y1="20" x2="840" y2="20" stroke="#3E4A96" stroke-width="0.8" stroke-opacity="0.5"/>
+  <!-- transparent background: no bg rect -->
+  <line class="ln" x1="60" y1="20" x2="840" y2="20" stroke="#1450A0" stroke-width="0.8" stroke-opacity="0.5"/>
 
   <text class="ft" x="450" y="52" text-anchor="middle">
-    crafted by sugumaran<tspan class="dot" dx="14" dy="0" fill="#8A6A1D" font-size="10">●</tspan><tspan dx="14" dy="0">© 2026</tspan>
+    crafted by sugumaran<tspan class="dot" dx="14" dy="0" fill="#B8860B" font-size="10">●</tspan><tspan dx="14" dy="0">© 2026</tspan>
   </text>
 </svg>

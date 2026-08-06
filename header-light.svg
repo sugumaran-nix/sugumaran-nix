@@ -61,7 +61,7 @@
     }
   </style>
 
-  <rect width="900" height="300" fill="#F7F2E7"/>
+  <!-- transparent background: no bg rect -->
 
   <!-- Heading: 60px, safe width ~714px ✓ -->
   <text class="hdg"
@@ -69,11 +69,11 @@
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="60" font-weight="700" letter-spacing="-0.5"
-    fill="#8A6A1D">Hello, I'm Sugumaran!</text>
+    fill="#B8860B">Hello, I'm Sugumaran!</text>
 
-  <!-- Divider (light theme): darker indigo #3E4A96 for contrast on cream -->
+  <!-- Divider (light theme): deep cobalt #1450A0 for contrast on cream -->
   <line class="div" x1="80" y1="132" x2="820" y2="132"
-    stroke="#3E4A96" stroke-width="1.25"/>
+    stroke="#1450A0" stroke-width="1.25"/>
 
   <!-- Roles: 24px -->
   <text class="role r1"
@@ -81,28 +81,28 @@
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="24" font-weight="500" letter-spacing="5"
-    fill="#3E4A96">MCA GRADUATE  ·  2026</text>
+    fill="#1450A0">MCA GRADUATE  ·  2026</text>
 
   <text class="role r2"
     x="450" y="188"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="24" font-weight="500" letter-spacing="5"
-    fill="#2F6F66">FULL STACK DEVELOPER</text>
+    fill="#007A99">FULL STACK DEVELOPER</text>
 
   <text class="role r3"
     x="450" y="188"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="24" font-weight="500" letter-spacing="5"
-    fill="#A85770">AI / ML ENTHUSIAST</text>
+    fill="#5A1FAD">AI / ML ENTHUSIAST</text>
 
   <text class="role r4"
     x="450" y="188"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="24" font-weight="500" letter-spacing="5"
-    fill="#A85A2E">OPEN TO WORK</text>
+    fill="#C05A00">OPEN TO WORK</text>
 
   <!-- Tech line: shortened to fit 900px — ~720px rendered width ✓ -->
   <text class="tch"
@@ -110,5 +110,5 @@
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="18" font-weight="700" letter-spacing="2"
-    fill="#5B5348">Python  ·  Flask  ·  FastAPI  ·  React  ·  Next.js</text>
+    fill="#3a3a3a">Python  ·  Flask  ·  FastAPI  ·  React  ·  Next.js</text>
 </svg>
