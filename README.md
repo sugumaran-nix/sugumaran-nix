@@ -39,7 +39,8 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ai-content-detector" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Text-Detector.png" 
+        width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">AI Generated Content Detector</h3>
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects AI-written text using perplexity and burstiness analysis, highlighting flagged spans with per-sentence confidence scores via a FastAPI backend.</p>
@@ -57,7 +58,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/Sketchline-whiteboard" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Multi-user whiteboard with sub-100ms stroke sync, board-state replay on reconnect, and live cursor presence — built on FastAPI WebSockets, no drawing library.</p>
@@ -75,7 +76,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ProjectScope" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/ProjectScope.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">ProjectScope — Eisenhower Matrix Task Manager</h3>
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Drag-and-drop task prioritisation across four quadrants, built in React + TypeScript with dnd-kit, keyboard accessibility, and cross-tab sync.</p>
