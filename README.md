@@ -21,7 +21,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://opengraph.githubassets.com/1/sugumaran-nix/fake-job-posting-ml" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/fake-job-posting.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">Fake Job Posting Detection using ML</h3>
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Classifies fraudulent job postings across 17,880 listings using 4 ML models — 87.57% Fraud F1-score on a heavily imbalanced dataset with runtime model switching.</p>
