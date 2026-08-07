@@ -1,0 +1,13 @@
+<svg viewBox="0 0 900 72" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <style>
+    .ft{font-family:'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;font-size:15px;font-weight:400;letter-spacing:2px;fill:#374151}
+    .ln{animation:expand 0.6s ease 0.1s forwards;transform-box:fill-box;transform-origin:50% 50%;transform:scaleX(0);opacity:0}
+    .dot{animation:pulse 1.6s ease-in-out 0.7s infinite}
+    @keyframes expand{from{opacity:0;transform:scaleX(0)}to{opacity:1;transform:scaleX(1)}}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+  </style>
+  <line class="ln" x1="60" y1="16" x2="840" y2="16" stroke="#F97316" stroke-width="1.5"/>
+  <text class="ft" x="450" y="46" text-anchor="middle">
+    crafted by sugumaran<tspan class="dot" dx="12" dy="0" fill="#F97316" font-size="9">●</tspan><tspan dx="12" dy="0">© 2026</tspan>
+  </text>
+</svg>
