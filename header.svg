@@ -18,15 +18,15 @@
 
     .hdg{fill:#111827}
     .r2{fill:#1E3A8A}
-    .r3{fill:#111827}
+    .r3{fill:#4B5563}
     .tch{fill:#1E3A8A}
     .divline{stroke:#000000}
 
     @media (prefers-color-scheme: dark){
-      .hdg{fill:#F8FAFC}
-      .r2{fill:#38BDF8}
-      .r3{fill:#E2E8F0}
-      .tch{fill:#38BDF8}
+      .hdg{fill:#E5E7EB}
+      .r2{fill:#4C6EF5}
+      .r3{fill:#9CA3AF}
+      .tch{fill:#4C6EF5}
       .divline{stroke:#FFFFFF}
     }
   </style>
@@ -41,7 +41,7 @@
   <text class="role r1" x="450" y="174" text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="22" font-weight="600" letter-spacing="5"
-    fill="#F97316">MCA GRADUATE  ·  2026</text>
+    fill="#6B7280">MCA GRADUATE  ·  2026</text>
 
   <text class="role r2" x="450" y="174" text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
@@ -54,7 +54,7 @@
   <text class="role r4" x="450" y="174" text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="22" font-weight="600" letter-spacing="5"
-    fill="#F97316">OPEN TO WORK</text>
+    fill="#6B7280">OPEN TO WORK</text>
 
   <text class="tch" x="450" y="230" text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
