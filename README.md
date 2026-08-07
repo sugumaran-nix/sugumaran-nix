@@ -16,7 +16,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
 
 ---
 
-### Projects
+### 🛠 Projects
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -24,7 +24,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
       <h3 style="margin:0 0 8px;color:#1E3A8A;">Fake Job Posting Detection using ML</h3>
       <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Job seekers waste time applying to fraudulent listings. This classifier catches them first — benchmarked 4 ML models on 17,880 real-world postings, 87.57% Fraud F1-score on a heavily imbalanced dataset, SHAP-style explainability, runtime model switching. Sub-800ms end-to-end.</p>
       <p style="margin:0 0 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC"/></a>
+        <a href="https://fake-job-posting-ml.onrender.com/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC"/></a>
       </p>
       <p style="margin:0;">
         <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC"/>
@@ -46,7 +46,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
       <h3 style="margin:0 0 8px;color:#1E3A8A;">AI Generated Content Detector</h3>
       <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Statistical classifier that distinguishes human-written from AI-generated text using perplexity, burstiness, and sentence-level variance. Highlights exact spans flagged as machine-generated with per-sentence confidence scores. Served via FastAPI.</p>
       <p style="margin:0 0 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC"/></a>
+        <a href="https://ai-content-detector-3u5f.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC"/></a>
       </p>
       <p style="margin:0;">
         <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC"/>
@@ -68,7 +68,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
       <h3 style="margin:0 0 8px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
       <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Collaborative tools break when multiple people draw at once. Sketchline handles it — FastAPI WebSocket backend manages room state, stroke history, and multi-client broadcast via a 7-message-type JSON protocol. Sub-100ms stroke sync, board-state replay on reconnect, live cursor presence at 20 fps. No drawing library.</p>
       <p style="margin:0 0 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC"/></a>
+        <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC"/></a>
       </p>
       <p style="margin:0;">
         <img src="https://img.shields.io/badge/Next.js-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC"/>
@@ -90,7 +90,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
       <h3 style="margin:0 0 8px;color:#1E3A8A;">ProjectScope — Eisenhower Matrix Task Manager</h3>
       <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Most task apps dump everything in one list. ProjectScope forces prioritisation — drag-and-drop quadrant layout built in React.js + TypeScript with dnd-kit, keyboard-accessible interactions, cross-tab localStorage sync.</p>
       <p style="margin:0 0 12px;">
-        <a href="#"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC"/></a>
+        <a href="https://project-scope-seven.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC"/></a>
       </p>
       <p style="margin:0;">
         <img src="https://img.shields.io/badge/React.js-1E3A8A?style=for-the-badge&logo=react&logoColor=F8FAFC"/>
@@ -106,7 +106,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
 
 ---
 
-### Tech Stack
+### ⚡ Tech Stack
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -211,24 +211,45 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
 
 ---
 
-### By the Numbers
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=111827&sideLabels=1E3A8A&sideNums=111827&dates=374151" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=F8FAFC&sideLabels=93C5FD&sideNums=F8FAFC&dates=9CA3AF"/>
+  <img src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=111827&sideLabels=1E3A8A&sideNums=111827&dates=374151"
+    alt="GitHub Streak" width="100%"/>
+</picture>
 
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=111827&line=F97316&point=1E3A8A&area=true&area_color=F9731622&hide_border=true&radius=6" alt="Activity Graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=F8FAFC&line=F97316&point=93C5FD&area=true&area_color=F9731633&hide_border=true&radius=6"/>
+  <img width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=111827&line=F97316&point=1E3A8A&area=true&area_color=F9731622&hide_border=true&radius=6"
+    alt="Activity Graph"/>
+</picture>
+
 </div>
 
 ---
 
-### Contribution Graph
+### 🕹 Contributions
 
 <div align="center">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/pacman-contribution-graph.svg"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/pacman-contribution-graph-dark.svg"/>
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/pacman-contribution-graph.svg"
+    width="100%"/>
+</picture>
+
 </div>
 
 <br/>
