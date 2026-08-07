@@ -24,15 +24,17 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
       <img src="https://opengraph.githubassets.com/1/sugumaran-nix/fake-job-posting-ml" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">Fake Job Posting Detection using ML</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 12px;">Classifies fraudulent job postings across 17,880 listings using 4 ML models — 87.57% Fraud F1-score on a heavily imbalanced dataset with runtime model switching.</p>
-        <p style="margin:0 0 12px;">
-          <a href="https://fake-job-posting-ml.onrender.com/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC" height="24"/></a>
-        </p>
-        <p style="margin:0;">
-        <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-1E3A8A?style=for-the-badge&logo=scikitlearn&logoColor=F8FAFC" height="24"/>
-        <img src="https://img.shields.io/badge/Flask-1E3A8A?style=for-the-badge&logo=flask&logoColor=F8FAFC" height="24"/>
-        </p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Classifies fraudulent job postings across 17,880 listings using 4 ML models — 87.57% Fraud F1-score on a heavily imbalanced dataset with runtime model switching.</p>
+        <table width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" style="padding:0;">
+              <a href="https://fake-job-posting-ml.onrender.com/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC" height="24"/></a>
+            </td>
+            <td valign="middle" align="right" style="padding:0;">
+              <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-1E3A8A?style=for-the-badge&logo=scikitlearn&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/Flask-1E3A8A?style=for-the-badge&logo=flask&logoColor=F8FAFC" height="24"/>
+            </td>
+          </tr>
+        </table>
       </div>
     </td>
   </tr>
@@ -46,15 +48,17 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
       <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ai-content-detector" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">AI Generated Content Detector</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 12px;">Detects AI-written text using perplexity and burstiness analysis, highlighting flagged spans with per-sentence confidence scores via a FastAPI backend.</p>
-        <p style="margin:0 0 12px;">
-          <a href="https://ai-content-detector-3u5f.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC" height="24"/></a>
-        </p>
-        <p style="margin:0;">
-        <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/>
-        <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=F8FAFC" height="24"/>
-        <img src="https://img.shields.io/badge/React-1E3A8A?style=for-the-badge&logo=react&logoColor=F8FAFC" height="24"/>
-        </p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects AI-written text using perplexity and burstiness analysis, highlighting flagged spans with per-sentence confidence scores via a FastAPI backend.</p>
+        <table width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" style="padding:0;">
+              <a href="https://ai-content-detector-3u5f.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC" height="24"/></a>
+            </td>
+            <td valign="middle" align="right" style="padding:0;">
+              <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/React-1E3A8A?style=for-the-badge&logo=react&logoColor=F8FAFC" height="24"/>
+            </td>
+          </tr>
+        </table>
       </div>
     </td>
   </tr>
@@ -68,15 +72,17 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
       <img src="https://opengraph.githubassets.com/1/sugumaran-nix/Sketchline-whiteboard" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 12px;">Multi-user whiteboard with sub-100ms stroke sync, board-state replay on reconnect, and live cursor presence — built on FastAPI WebSockets, no drawing library.</p>
-        <p style="margin:0 0 12px;">
-          <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC" height="24"/></a>
-        </p>
-        <p style="margin:0;">
-        <img src="https://img.shields.io/badge/Next.js-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC" height="24"/>
-        <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=F8FAFC" height="24"/>
-        <img src="https://img.shields.io/badge/WebSockets-1E3A8A?style=for-the-badge&logo=socketdotio&logoColor=F8FAFC" height="24"/>
-        </p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Multi-user whiteboard with sub-100ms stroke sync, board-state replay on reconnect, and live cursor presence — built on FastAPI WebSockets, no drawing library.</p>
+        <table width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" style="padding:0;">
+              <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC" height="24"/></a>
+            </td>
+            <td valign="middle" align="right" style="padding:0;">
+              <img src="https://img.shields.io/badge/Next.js-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/WebSockets-1E3A8A?style=for-the-badge&logo=socketdotio&logoColor=F8FAFC" height="24"/>
+            </td>
+          </tr>
+        </table>
       </div>
     </td>
   </tr>
@@ -90,15 +96,17 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
       <img src="https://opengraph.githubassets.com/1/sugumaran-nix/ProjectScope" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">ProjectScope — Eisenhower Matrix Task Manager</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 12px;">Drag-and-drop task prioritisation across four quadrants, built in React + TypeScript with dnd-kit, keyboard accessibility, and cross-tab sync.</p>
-        <p style="margin:0 0 12px;">
-          <a href="https://project-scope-seven.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC" height="24"/></a>
-        </p>
-        <p style="margin:0;">
-        <img src="https://img.shields.io/badge/React.js-1E3A8A?style=for-the-badge&logo=react&logoColor=F8FAFC" height="24"/>
-        <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=F8FAFC" height="24"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-1E3A8A?style=for-the-badge&logo=tailwindcss&logoColor=F8FAFC" height="24"/>
-        </p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Drag-and-drop task prioritisation across four quadrants, built in React + TypeScript with dnd-kit, keyboard accessibility, and cross-tab sync.</p>
+        <table width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="middle" style="padding:0;">
+              <a href="https://project-scope-seven.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-1E3A8A?style=for-the-badge&labelColor=F97316&logoColor=F8FAFC" height="24"/></a>
+            </td>
+            <td valign="middle" align="right" style="padding:0;">
+              <img src="https://img.shields.io/badge/React.js-1E3A8A?style=for-the-badge&logo=react&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/Tailwind_CSS-1E3A8A?style=for-the-badge&logo=tailwindcss&logoColor=F8FAFC" height="24"/>
+            </td>
+          </tr>
+        </table>
       </div>
     </td>
   </tr>
