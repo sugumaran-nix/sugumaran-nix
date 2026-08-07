@@ -59,26 +59,18 @@
       from { opacity:0; transform:scaleX(0); }
       to   { opacity:1; transform:scaleX(1); }
     }
-    @keyframes blink {
-      0%, 100% { opacity:1; }
-      50%      { opacity:0; }
-    }
-    .cursor { animation: blink 1s step-start infinite; }
   </style>
 
-  <!-- Heading with typing cursor -->
   <text class="hdg"
     x="450" y="105"
     text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="60" font-weight="700" letter-spacing="-0.5"
-    fill="#F5F5F5">Hello, I'm Sugumaran!<tspan class="cursor" fill="#B22222">|</tspan></text>
+    fill="#F5F5F5">Hello, I'm Sugumaran!</text>
 
-  <!-- Divider -->
   <line class="div" x1="80" y1="132" x2="820" y2="132"
     stroke="#B22222" stroke-width="1.25"/>
 
-  <!-- Roles -->
   <text class="role r1"
     x="450" y="188"
     text-anchor="middle"
@@ -107,7 +99,6 @@
     font-size="24" font-weight="500" letter-spacing="5"
     fill="#B22222">OPEN TO WORK</text>
 
-  <!-- Tech line -->
   <text class="tch"
     x="450" y="252"
     text-anchor="middle"
