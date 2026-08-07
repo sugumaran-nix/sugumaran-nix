@@ -1,0 +1,58 @@
+<svg viewBox="0 0 450 600" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <style>
+    .ic { opacity:0; animation: pop 0.5s ease forwards; transform-box: fill-box; transform-origin: 50% 50%; }
+    @keyframes pop {
+      from { opacity:0; transform: scale(0.4); }
+      to   { opacity:1; transform: scale(1); }
+    }
+  </style>
+  <rect width="450" height="600" fill="none"/>
+  <g class="ic" style="animation-delay:0.0s">
+    <circle cx="243.7" cy="526.3" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/python/F5F5F5" x="229.7" y="512.3" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.05s">
+    <circle cx="213.8" cy="491.8" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/javascript/F5F5F5" x="199.8" y="477.8" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.1s">
+    <circle cx="189.1" cy="453.4" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/typescript/F5F5F5" x="175.1" y="439.4" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.15s">
+    <circle cx="170.2" cy="411.8" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/react/F5F5F5" x="156.2" y="397.8" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.2s">
+    <circle cx="157.3" cy="368.0" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/nextdotjs/F5F5F5" x="143.3" y="354.0" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.25s">
+    <circle cx="150.8" cy="322.8" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/fastapi/F5F5F5" x="136.8" y="308.8" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.3s">
+    <circle cx="150.8" cy="277.2" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/flask/F5F5F5" x="136.8" y="263.2" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.35s">
+    <circle cx="157.3" cy="232.0" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/nodedotjs/F5F5F5" x="143.3" y="218.0" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.4s">
+    <circle cx="170.2" cy="188.2" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/mongodb/F5F5F5" x="156.2" y="174.2" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.45s">
+    <circle cx="189.1" cy="146.6" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/mysql/F5F5F5" x="175.1" y="132.6" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.5s">
+    <circle cx="213.8" cy="108.2" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/docker/F5F5F5" x="199.8" y="94.2" width="28" height="28"/>
+  </g>
+  <g class="ic" style="animation-delay:0.55s">
+    <circle cx="243.7" cy="73.7" r="27" fill="#161B22" stroke="#B22222" stroke-width="1.4"/>
+    <image href="https://cdn.simpleicons.org/git/F5F5F5" x="229.7" y="59.7" width="28" height="28"/>
+  </g>
+</svg>
