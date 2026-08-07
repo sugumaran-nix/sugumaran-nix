@@ -11,23 +11,23 @@
     .r4{animation:r4 12s cubic-bezier(0.2,0.65,0.3,0.9) infinite}
     .hdg{animation:fadeDown 0.7s ease forwards}
     .tch{animation:fadeUp 0.7s ease 0.35s forwards;opacity:0}
-    .div{animation:expand 0.5s ease 0.15s forwards;transform-box:fill-box;transform-origin:50% 50%;transform:scaleX(0);opacity:0}
+    .divline{animation:expand 0.5s ease 0.15s forwards;transform-box:fill-box;transform-origin:50% 50%;transform:scaleX(0);opacity:0}
     @keyframes fadeDown{from{opacity:0;transform:translateY(-14px)}to{opacity:1;transform:translateY(0)}}
     @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
     @keyframes expand{from{opacity:0;transform:scaleX(0)}to{opacity:1;transform:scaleX(1)}}
 
-    /* ── light mode (default) ── */
     .hdg{fill:#111827}
     .r2{fill:#1E3A8A}
     .r3{fill:#111827}
     .tch{fill:#1E3A8A}
+    .divline{stroke:#000000}
 
-    /* ── dark mode ── */
-    @media (prefers-color-scheme: dark) {
+    @media (prefers-color-scheme: dark){
       .hdg{fill:#F8FAFC}
-      .r2 {fill:#93C5FD}
-      .r3 {fill:#E2E8F0}
-      .tch{fill:#93C5FD}
+      .r2{fill:#38BDF8}
+      .r3{fill:#E2E8F0}
+      .tch{fill:#38BDF8}
+      .divline{stroke:#FFFFFF}
     }
   </style>
 
@@ -36,26 +36,21 @@
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="58" font-weight="700" letter-spacing="-0.5">Hello, I'm Sugumaran!</text>
 
-  <line class="div" x1="80" y1="120" x2="820" y2="120"
-    stroke="#F97316" stroke-width="2"/>
+  <line class="divline" x1="80" y1="120" x2="820" y2="120" stroke-width="0.8"/>
 
-  <!-- r1: MCA GRADUATE — orange, visible on both modes -->
   <text class="role r1" x="450" y="174" text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="22" font-weight="600" letter-spacing="5"
     fill="#F97316">MCA GRADUATE  ·  2026</text>
 
-  <!-- r2: FULL STACK DEVELOPER — blue (adapts via CSS) -->
   <text class="role r2" x="450" y="174" text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="22" font-weight="600" letter-spacing="5">FULL STACK DEVELOPER</text>
 
-  <!-- r3: AI / ML ENTHUSIAST — dark/light (adapts via CSS) -->
   <text class="role r3" x="450" y="174" text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="22" font-weight="600" letter-spacing="5">AI / ML ENTHUSIAST</text>
 
-  <!-- r4: OPEN TO WORK — orange, visible on both modes -->
   <text class="role r4" x="450" y="174" text-anchor="middle"
     font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
     font-size="22" font-weight="600" letter-spacing="5"
