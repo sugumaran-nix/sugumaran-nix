@@ -138,37 +138,12 @@
 
 ### GitHub Stats
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top" style="padding:6px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&hide_border=true&bg_color=00000000&title_color=4C6EF5&icon_color=4C6EF5&text_color=E5E7EB&rank_icon=github"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E3A8A&icon_color=1E3A8A&text_color=111827&rank_icon=github"
-          alt="GitHub Stats" width="100%"/>
-      </picture>
-    </td>
-    <td width="50%" valign="top" style="padding:6px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=4C6EF5&fire=4C6EF5&currStreakLabel=4C6EF5&currStreakNum=E5E7EB&sideLabels=9CA3AF&sideNums=E5E7EB&dates=9CA3AF"/>
-        <img src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&currStreakNum=111827&sideLabels=4B5563&sideNums=111827&dates=4B5563"
-          alt="GitHub Streak" width="100%"/>
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding:6px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=E5E7EB&line=4C6EF5&point=9CA3AF&area=true&area_color=4C6EF533&hide_border=true&radius=6"/>
-        <img width="100%"
-          src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=111827&line=1E3A8A&point=4B5563&area=true&area_color=1E3A8A22&hide_border=true&radius=6"
-          alt="Activity Graph"/>
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=4C6EF5&fire=4C6EF5&currStreakLabel=4C6EF5&currStreakNum=E5E7EB&sideLabels=9CA3AF&sideNums=E5E7EB&dates=9CA3AF"/>
+  <img src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&currStreakNum=111827&sideLabels=4B5563&sideNums=111827&dates=4B5563"
+    alt="GitHub Streak" width="100%"/>
+</picture>
 
 ---
 
