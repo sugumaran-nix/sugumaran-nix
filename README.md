@@ -2,9 +2,9 @@
 
 <br/>
 
-MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps — from model to frontend. My focus is on making ML systems actually usable: clean APIs, fast UIs, and models that do something meaningful.
+<p align="justify">MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps — from model to frontend. My focus is on making ML systems actually usable: clean APIs, fast UIs, and models that do something meaningful.</p>
 
-Currently open to full-time roles in AI/ML engineering, backend, or full-stack development.
+<p align="justify">Currently open to full-time roles in AI/ML engineering, backend, or full-stack development.</p>
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
@@ -22,6 +22,24 @@ Currently open to full-time roles in AI/ML engineering, backend, or full-stack d
 ---
 
 ### Projects
+
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
+      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <div style="padding:16px 20px 18px;">
+        <h3 style="margin:0 0 8px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Multi-user whiteboard with sub-100ms stroke sync, board-state replay on reconnect, and live cursor presence — built on FastAPI WebSockets, no drawing library.</p>
+        <p style="margin:0;">
+          <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
+          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -52,24 +70,6 @@ Currently open to full-time roles in AI/ML engineering, backend, or full-stack d
         <p style="margin:0;">
           <a href="https://ai-content-detector-3u5f.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
-      <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Multi-user whiteboard with sub-100ms stroke sync, board-state replay on reconnect, and live cursor presence — built on FastAPI WebSockets, no drawing library.</p>
-        <p style="margin:0;">
-          <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
         </p>
       </div>
     </td>
@@ -129,7 +129,7 @@ Currently open to full-time roles in AI/ML engineering, backend, or full-stack d
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="24"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="24"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24"/>
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="24"/>
     </td>
   </tr>
 </table>
