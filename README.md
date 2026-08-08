@@ -2,7 +2,9 @@
 
 <br/>
 
-MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps — from model to frontend.
+MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps — from model to frontend. My focus is on making ML systems actually usable: clean APIs, fast UIs, and models that do something meaningful.
+
+Currently open to full-time roles in AI/ML engineering, backend, or full-stack development.
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
@@ -10,6 +12,9 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
   </a>&nbsp;
   <a href="https://github.com/sugumaran-nix">
     <img src="https://img.shields.io/badge/GitHub-sugumaran--nix-1E3A8A?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=111827" height="24"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/sugumaran-nix">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="24"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sugumaran-nix&style=for-the-badge&color=1E3A8A&label=VIEWS&abbreviated=true&labelColor=111827" height="24"/>
 </p>
@@ -27,7 +32,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Classifies fraudulent job postings across 17,880 listings using 4 ML models — 87.57% Fraud F1-score on a heavily imbalanced dataset with runtime model switching.</p>
         <p style="margin:0;">
           <a href="https://fake-job-posting-ml.onrender.com/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-1E3A8A?style=for-the-badge&logo=scikitlearn&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/Flask-1E3A8A?style=for-the-badge&logo=flask&logoColor=F8FAFC" height="24"/>
+          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24"/>
         </p>
       </div>
     </td>
@@ -46,7 +51,7 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects AI-written text using perplexity and burstiness analysis, highlighting flagged spans with per-sentence confidence scores via a FastAPI backend.</p>
         <p style="margin:0;">
           <a href="https://ai-content-detector-3u5f.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/React-1E3A8A?style=for-the-badge&logo=react&logoColor=F8FAFC" height="24"/>
+          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24"/>
         </p>
       </div>
     </td>
@@ -64,99 +69,67 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Multi-user whiteboard with sub-100ms stroke sync, board-state replay on reconnect, and live cursor presence — built on FastAPI WebSockets, no drawing library.</p>
         <p style="margin:0;">
           <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/WebSockets-1E3A8A?style=for-the-badge&logo=socketdotio&logoColor=F8FAFC" height="24"/>
+          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
         </p>
       </div>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/ProjectScope.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
-      <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">ProjectScope — Eisenhower Matrix Task Manager</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Drag-and-drop task prioritisation across four quadrants, built in React + TypeScript with dnd-kit, keyboard accessibility, and cross-tab sync.</p>
-        <p style="margin:0;">
-          <a href="https://project-scope-seven.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/React.js-1E3A8A?style=for-the-badge&logo=react&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=F8FAFC" height="24"/> <img src="https://img.shields.io/badge/Tailwind_CSS-1E3A8A?style=for-the-badge&logo=tailwindcss&logoColor=F8FAFC" height="24"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
 ### Tech Stack
 
-<table width="100%" cellspacing="8" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
   <tr>
-    <td width="33%" valign="top" style="border:1.5px solid #1E3A8A;border-radius:10px;padding:16px 18px;">
+    <td width="33%" align="center" valign="top" style="padding:16px 18px;border-right:1.5px solid #1E3A8A;border-bottom:1.5px solid #1E3A8A;">
       <b style="color:#111827;font-size:13px;letter-spacing:1px;">LANGUAGES</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/C-1E3A8A?style=for-the-badge&logo=c&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=cplusplus&logoColor=F8FAFC" height="24"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="24"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
     </td>
-    <td width="33%" valign="top" style="border:1.5px solid #1E3A8A;border-radius:10px;padding:16px 18px;">
+    <td width="33%" align="center" valign="top" style="padding:16px 18px;border-right:1.5px solid #1E3A8A;border-bottom:1.5px solid #1E3A8A;">
       <b style="color:#111827;font-size:13px;letter-spacing:1px;">FRONTEND</b><br/><br/>
-      <img src="https://img.shields.io/badge/React-1E3A8A?style=for-the-badge&logo=react&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Next.js-1E3A8A?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-1E3A8A?style=for-the-badge&logo=tailwindcss&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Bootstrap-1E3A8A?style=for-the-badge&logo=bootstrap&logoColor=F8FAFC" height="24"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24"/>
     </td>
-    <td width="33%" valign="top" style="border:1.5px solid #1E3A8A;border-radius:10px;padding:16px 18px;">
+    <td width="33%" align="center" valign="top" style="padding:16px 18px;border-bottom:1.5px solid #1E3A8A;">
       <b style="color:#111827;font-size:13px;letter-spacing:1px;">BACKEND &amp; APIs</b><br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Flask-1E3A8A?style=for-the-badge&logo=flask&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Node.js-1E3A8A?style=for-the-badge&logo=nodedotjs&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/WebSockets-1E3A8A?style=for-the-badge&logo=socketdotio&logoColor=F8FAFC" height="24"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
     </td>
   </tr>
-</table>
-
-<br/>
-
-<table width="100%" cellspacing="8" cellpadding="0">
   <tr>
-    <td width="60%" valign="top" style="border:1.5px solid #1E3A8A;border-radius:10px;padding:16px 18px;">
+    <td colspan="2" align="center" valign="top" style="padding:16px 18px;border-right:1.5px solid #1E3A8A;border-bottom:1.5px solid #1E3A8A;">
       <b style="color:#111827;font-size:13px;letter-spacing:1px;">AI · ML · NLP</b><br/><br/>
-      <img src="https://img.shields.io/badge/Scikit--learn-1E3A8A?style=for-the-badge&logo=scikitlearn&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Hugging_Face-1E3A8A?style=for-the-badge&logo=huggingface&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/NLTK-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/TF--IDF-1E3A8A?style=for-the-badge&logo=python&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/BERT-1E3A8A?style=for-the-badge&logo=huggingface&logoColor=F8FAFC" height="24"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="24"/>
+      <img src="https://img.shields.io/badge/BERT-4A154B?style=for-the-badge&logo=huggingface&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/>
     </td>
-    <td width="40%" valign="top" style="border:1.5px solid #1E3A8A;border-radius:10px;padding:16px 18px;">
+    <td align="center" valign="top" style="padding:16px 18px;border-bottom:1.5px solid #1E3A8A;">
       <b style="color:#111827;font-size:13px;letter-spacing:1px;">DATABASES</b><br/><br/>
-      <img src="https://img.shields.io/badge/MySQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/MongoDB-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/SQLite-1E3A8A?style=for-the-badge&logo=sqlite&logoColor=F8FAFC" height="24"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="24"/>
     </td>
   </tr>
-</table>
-
-<br/>
-
-<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border:1.5px solid #1E3A8A;border-radius:10px;padding:16px 20px;">
+    <td colspan="3" align="center" valign="top" style="padding:16px 18px;">
       <b style="color:#111827;font-size:13px;letter-spacing:1px;">TOOLS &amp; DEVOPS</b><br/><br/>
-      <img src="https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-1E3A8A?style=for-the-badge&logo=githubactions&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Vercel-1E3A8A?style=for-the-badge&logo=vercel&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/Railway-1E3A8A?style=for-the-badge&logo=railway&logoColor=F8FAFC" height="24"/>
-      <img src="https://img.shields.io/badge/VS_Code-1E3A8A?style=for-the-badge&logo=visualstudiocode&logoColor=F8FAFC" height="24"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="24"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24"/>
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="24"/>
     </td>
   </tr>
 </table>
@@ -170,12 +143,22 @@ MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps
     <td width="50%" valign="top" style="padding:6px;">
       <picture>
         <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&hide_border=true&bg_color=00000000&title_color=4C6EF5&icon_color=4C6EF5&text_color=E5E7EB&rank_icon=github"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sugumaran-nix&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E3A8A&icon_color=1E3A8A&text_color=111827&rank_icon=github"
+          alt="GitHub Stats" width="100%"/>
+      </picture>
+    </td>
+    <td width="50%" valign="top" style="padding:6px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
           srcset="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=4C6EF5&fire=4C6EF5&currStreakLabel=4C6EF5&currStreakNum=E5E7EB&sideLabels=9CA3AF&sideNums=E5E7EB&dates=9CA3AF"/>
         <img src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&currStreakNum=111827&sideLabels=4B5563&sideNums=111827&dates=4B5563"
           alt="GitHub Streak" width="100%"/>
       </picture>
     </td>
-    <td width="50%" valign="top" style="padding:6px;">
+  </tr>
+  <tr>
+    <td colspan="2" style="padding:6px;">
       <picture>
         <source media="(prefers-color-scheme: dark)"
           srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=E5E7EB&line=4C6EF5&point=9CA3AF&area=true&area_color=4C6EF533&hide_border=true&radius=6"/>
