@@ -147,7 +147,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=E5E7EB&line=4C6EF5&point=9CA3AF&area=true&area_color=4C6EF533&hide_border=true&radius=6&height=200"/>
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=E5E7EB&line=4C6EF5&point=9CA3AF&area=true&area_color=4C6EF533&hide_border=true&radius=6&height=350"/>
   <img width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=111827&line=1E3A8A&point=4B5563&area=true&area_color=1E3A8A22&hide_border=true&radius=6&height=200"
     alt="Activity Graph"/>
