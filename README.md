@@ -2,13 +2,9 @@
 
 <br/>
 
-<p align="center">🟢 Open to work — AI/ML · Full Stack · Backend</p>
+<p align="justify">MCA graduate (2026) from Anna University, Coimbatore. I build AI/ML models and full-stack web apps — Python, FastAPI, React.</p>
 
-<p align="center">MCA graduate (2026) from Anna University, Coimbatore.<br/>
-I build AI/ML models and full-stack web apps — Python, FastAPI, React.</p>
-
-<p align="center">Currently looking for AI/ML, full-stack, or backend roles.<br/>
-Available immediately · Remote or relocation anywhere in India.</p>
+<p align="justify">Currently looking for AI/ML, full-stack, or backend roles. Available immediately — open to remote or relocation anywhere in India.</p>
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
@@ -27,40 +23,37 @@ Available immediately · Remote or relocation anywhere in India.</p>
 
 ### Tech Stack
 
-**Languages**<br/>
+**Languages**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" height="24"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
 
-<br/>
+**Frontend**
 
-**Frontend**<br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24"/>
 
-<br/>
+**Backend**
 
-**Backend**<br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
 
-<br/>
+**AI / ML**
 
-**AI / ML**<br/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" height="24"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="24"/>
 
-<br/>
+**Tools & Deploy**
 
-**Tools & Deploy**<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24"/>
