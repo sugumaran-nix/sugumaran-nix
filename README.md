@@ -144,7 +144,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=4C6EF5&fire=4C6EF5&currStreakLabel=4C6EF5&currStreakNum=E5E7EB&sideLabels=9CA3AF&sideNums=E5E7EB&dates=9CA3AF"/>
   <img src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&currStreakNum=111827&sideLabels=4B5563&sideNums=111827&dates=4B5563"
-    alt="GitHub Streak" width="100%"/>
+    alt="GitHub Streak" width="90%"/>
 </picture>
 
 <picture>
