@@ -2,23 +2,73 @@
 
 <br/>
 
-<p align="justify">MCA graduate (2026) from Anna University, Coimbatore. I build full-stack AI apps — from model to frontend. My focus is on making ML systems actually usable: clean APIs, fast UIs, and models that do something meaningful.</p>
-
-<p align="justify">Currently open to full-time roles in AI/ML engineering, backend, or full-stack development.</p>
+<p align="justify">MCA graduate (2026) from Anna University, Coimbatore. I build AI/ML models and full-stack web apps — Python, FastAPI, React. Currently looking for full-stack, AI/ML, or backend roles. Available immediately, open to remote and relocation across India.</p>
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-visit_site-1E3A8A?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=111827" height="24"/>
   </a>&nbsp;
-  <a href="https://github.com/sugumaran-nix">
-    <img src="https://img.shields.io/badge/GitHub-sugumaran--nix-1E3A8A?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=111827" height="24"/>
-  </a>&nbsp;
   <a href="https://linkedin.com/in/sugumaran-nix">
     <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="24"/>
+  </a>&nbsp;
+  <a href="mailto:sugumarankugan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" height="24"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sugumaran-nix&style=for-the-badge&color=1E3A8A&label=VIEWS&abbreviated=true&labelColor=111827" height="24"/>
 </p>
 
+---
+
+### Tech Stack
+
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border:1.5px solid #1E3A8A;border-radius:10px;padding:20px 24px;">
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" height="24"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
+
+<br/><br/>
+
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24"/>
+
+<br/><br/>
+
+**Backend**<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
+
+<br/><br/>
+
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" height="24"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="24"/>
+
+<br/><br/>
+
+**Tools & Deploy**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827" height="24"/>
+<img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" height="24"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="24"/>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -30,7 +80,7 @@
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Multi-user whiteboard with sub-100ms stroke sync, board-state replay on reconnect, and live cursor presence — built on FastAPI WebSockets, no drawing library.</p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Multiplayer whiteboard — strokes sync across all connected users in real time via FastAPI WebSockets. Board state replays on reconnect so late joiners never see a blank canvas. No external drawing library used.</p>
         <p style="margin:0;">
           <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
@@ -47,8 +97,8 @@
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">Fake Job Posting Detection using ML</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Classifies fraudulent job postings across 17,880 listings using 4 ML models — 87.57% Fraud F1-score on a heavily imbalanced dataset with runtime model switching.</p>
+        <h3 style="margin:0 0 8px;color:#1E3A8A;">Fake Job Posting Detector</h3>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Classifies job postings as fraudulent or legitimate across 17,880 listings. 4 ML classifiers, 87.57% F1-score on an imbalanced dataset. Switch models at runtime without restarting. Includes URL fraud heuristics and feature-level explainability.</p>
         <p style="margin:0;">
           <a href="https://fake-job-posting-ml.onrender.com/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24"/>
@@ -63,20 +113,36 @@
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Text-Detector.png" 
-        width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Text-Detector.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">AI Generated Content Detector</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects AI-written text using perplexity and burstiness analysis, highlighting flagged spans with per-sentence confidence scores via a FastAPI backend.</p>
+        <h3 style="margin:0 0 8px;color:#1E3A8A;">AI Content Detector</h3>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects AI-written text using 11 NLP signals — perplexity, burstiness, POS entropy, lexical diversity, and more. Runs entirely in the browser with no server call; the classifier and bigram language model are reimplemented in vanilla JS.</p>
         <p style="margin:0;">
           <a href="https://ai-content-detector-3u5f.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24"/>
+          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" height="24"/>
         </p>
       </div>
     </td>
   </tr>
 </table>
 
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
+      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/ProjectScope.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <div style="padding:16px 20px 18px;">
+        <h3 style="margin:0 0 8px;color:#1E3A8A;">Shopiq — Price Comparison for India</h3>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Compares prices across Amazon, Flipkart, AJIO, Snapdeal, and Croma. No paid APIs or proxies — uses curl_cffi to bypass TLS bot detection. Two-tier cache serves stale results clearly labelled rather than showing nothing.</p>
+        <p style="margin:0;">
+          <a href="https://github.com/sugumaran-nix/ai-shopping-agent"><img src="https://img.shields.io/badge/repo-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
+          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -96,6 +162,7 @@
       width="49%"/>
   </picture>
 </p>
+
 ---
 
 ### Contributions
