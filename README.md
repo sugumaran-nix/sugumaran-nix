@@ -2,7 +2,13 @@
 
 <br/>
 
-<p align="justify">MCA graduate (2026) from Anna University, Coimbatore. I build AI/ML models and full-stack web apps — Python, FastAPI, React. Currently looking for full-stack, AI/ML, or backend roles. Available immediately, open to remote and relocation across India.</p>
+<p align="center">🟢 Open to work — AI/ML · Full Stack · Backend</p>
+
+<p align="center">MCA graduate (2026) from Anna University, Coimbatore.<br/>
+I build AI/ML models and full-stack web apps — Python, FastAPI, React.</p>
+
+<p align="center">Currently looking for AI/ML, full-stack, or backend roles.<br/>
+Available immediately · Remote or relocation anywhere in India.</p>
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
@@ -12,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="24"/>
   </a>&nbsp;
   <a href="mailto:sugumarankugan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" height="24"/>
+    <img src="https://img.shields.io/badge/Email-contact-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" height="24"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sugumaran-nix&style=for-the-badge&color=1E3A8A&label=VIEWS&abbreviated=true&labelColor=111827" height="24"/>
 </p>
@@ -20,10 +26,6 @@
 ---
 
 ### Tech Stack
-
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border:1.5px solid #1E3A8A;border-radius:10px;padding:20px 24px;">
 
 **Languages**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/>
@@ -65,10 +67,6 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827" height="24"/>
 <img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" height="24"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="24"/>
-
-    </
-  </tr>
-</table>
 
 ---
 
@@ -126,23 +124,6 @@
   </tr>
 </table>
 
-<br/>
-
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/ProjectScope.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
-      <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">Shopiq — Price Comparison for India</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Compares prices across Amazon, Flipkart, AJIO, Snapdeal, and Croma. No paid APIs or proxies — uses curl_cffi to bypass TLS bot detection. Two-tier cache serves stale results clearly labelled rather than showing nothing.</p>
-        <p style="margin:0;">
-          <a href="https://github.com/sugumaran-nix/ai-shopping-agent"><img src="https://img.shields.io/badge/repo-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/>
-        </p>
-      </div>
-  </tr>
-</table>
-
 ---
 
 ### GitHub Stats
@@ -152,13 +133,15 @@
     <source media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=4C6EF5&fire=4C6EF5&currStreakLabel=4C6EF5&currStreakNum=E5E7EB&sideLabels=9CA3AF&sideNums=E5E7EB&dates=9CA3AF"/>
     <img src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&currStreakNum=111827&sideLabels=4B5563&sideNums=111827&dates=4B5563"
-      width="49%"/>
+      width="100%"/>
   </picture>
+</p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=9CA3AF&line=4C6EF5&point=4C6EF5&area=true&area_color=4C6EF520&hide_border=true&radius=4"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=4B5563&line=1E3A8A&point=1E3A8A&area=true&area_color=1E3A8A15&hide_border=true&radius=4"
-      width="49%"/>
+      width="100%"/>
   </picture>
 </p>
 
@@ -168,7 +151,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border:1.5px solid #1E3A8A;border-radius:10px;padding:16px;">
+    <td>
       <picture>
         <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/pacman-contribution-graph-dark.svg"/>
@@ -179,6 +162,10 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">Have a role in mind? <a href="mailto:sugumarankugan@gmail.com">Let's talk</a> · <a href="https://linkedin.com/in/sugumaran-nix">Connect on LinkedIn</a></p>
 
 <br/>
 
