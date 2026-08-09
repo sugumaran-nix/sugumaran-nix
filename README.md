@@ -19,6 +19,8 @@
   <img src="https://komarev.com/ghpvc/?username=sugumaran-nix&style=for-the-badge&color=1E3A8A&label=VIEWS&abbreviated=true&labelColor=111827" height="24"/>
 </p>
 
+<!--
+
 ---
 
 ### Projects
@@ -76,7 +78,7 @@
   </tr>
 </table>
 
-
+-->
 ---
 
 ### Tech Stack
