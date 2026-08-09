@@ -23,37 +23,32 @@
 
 ### Tech Stack
 
-**Languages**
-
+**Languages**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" height="24"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
 
-**Frontend**
-
+**Frontend**<br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24"/>
 
-**Backend**
-
+**Backend**<br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
 
-**AI / ML**
-
+**AI / ML**<br/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" height="24"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="24"/>
 
-**Tools & Deploy**
-
+**Tools & Deploy**<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24"/>
@@ -126,7 +121,7 @@
     <source media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=4C6EF5&fire=4C6EF5&currStreakLabel=4C6EF5&currStreakNum=E5E7EB&sideLabels=9CA3AF&sideNums=E5E7EB&dates=9CA3AF"/>
     <img src="https://streak-stats.demolab.com?user=sugumaran-nix&hide_border=true&background=00000000&stroke=00000000&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&currStreakNum=111827&sideLabels=4B5563&sideNums=111827&dates=4B5563"
-      width="100%"/>
+      width="85%" style="display:block;margin:0 auto;"/>
   </picture>
 </p>
 <p align="center">
