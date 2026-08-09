@@ -2,9 +2,8 @@
 
 <br/>
 
-<p align="justify">MCA graduate (2026) from Anna University, Coimbatore. I build AI/ML models and full-stack web apps — Python, FastAPI, React.</p>
-
-<p align="justify">Currently looking for AI/ML, full-stack, or backend roles. Available immediately — open to remote or relocation anywhere in India.</p>
+<p align="justify">MCA graduate (2026) from Anna University, Coimbatore. I build AI/ML models and full-stack web apps — Python, FastAPI, React.
+  Currently looking for AI/ML, full-stack, or backend roles. Available immediately — open to remote or relocation in India.</p>
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
