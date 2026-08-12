@@ -68,6 +68,8 @@
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Multiplayer whiteboard — strokes sync across all connected users in real time via FastAPI WebSockets. Board state replays on reconnect so late joiners never see a blank canvas. No external drawing library used.</p>
         <p style="margin:0;">
           <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
+          &nbsp;<a href="https://github.com/sugumaran-nix/whiteboard-frontend"><img src="https://img.shields.io/badge/frontend-source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
+          &nbsp;<a href="https://github.com/sugumaran-nix/whiteboard-backend"><img src="https://img.shields.io/badge/backend-source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
           &nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24"/>
         </p>
       </div>
@@ -86,6 +88,7 @@
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Classifies job postings as fraudulent or legitimate across 17,880 listings. 4 ML classifiers, 87.57% F1-score on an imbalanced dataset. Switch models at runtime without restarting. Includes URL fraud heuristics and feature-level explainability.</p>
         <p style="margin:0;">
           <a href="https://fake-job-posting-ml.onrender.com/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
+          &nbsp;<a href="https://github.com/sugumaran-nix/fake-job-posting-ml"><img src="https://img.shields.io/badge/source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
           &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24"/>
         </p>
       </div>
@@ -101,10 +104,11 @@
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Text-Detector.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 8px;color:#1E3A8A;">AI Content Detector</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects AI-written text using 11 NLP signals — perplexity, burstiness, POS entropy, lexical diversity, and more. Runs entirely in the browser with no server call; the classifier and bigram language model are reimplemented in vanilla JS.</p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects AI-written text using 11 NLP signals — perplexity, burstiness, POS entropy, lexical diversity, and more. FastAPI backend with a LinearSVC classifier trained on 900 samples; sentence-level breakdown highlights exactly which parts read as AI.</p>
         <p style="margin:0;">
-          <a href="https://ai-content-detector-3u5f.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" height="24"/>
+          <a href="https://ai-content-detector-nine.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
+          &nbsp;<a href="https://github.com/sugumaran-nix/ai-content-detector"><img src="https://img.shields.io/badge/source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
+          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/>
         </p>
       </div>
     </td>
