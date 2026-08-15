@@ -152,4 +152,4 @@
 
 <br/>
 
-<img src="./footer.svg" width="100%" alt="footer"/>
+<img src="./footer-winter.svg" width="100%" alt="footer"/>
