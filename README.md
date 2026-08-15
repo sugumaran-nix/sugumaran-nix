@@ -127,14 +127,4 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/pacman-contribution-graph-dark.svg"/>
-    <img alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/pacman-contribution-graph.svg"
-      width="100%"/>
-  </picture>
-</p>
-
-<img src="./footer-winter.svg" width="100%" alt="footer"/>
+<p align="center"><img src="./footer-winter.svg" width="90%" alt="footer"/></p>
