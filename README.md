@@ -137,10 +137,4 @@
   </picture>
 </p>
 
----
-
-<p align="center">Have a role in mind? <a href="mailto:sugumarankugan@gmail.com">Let's talk</a> · <a href="https://linkedin.com/in/sugumaran-nix">Connect on LinkedIn</a></p>
-
-<br/>
-
 <img src="./footer-winter.svg" width="100%" alt="footer"/>
