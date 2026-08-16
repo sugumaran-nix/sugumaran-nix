@@ -109,4 +109,4 @@
   </picture>
 </p>
 
-<p align="center"><img src="./footer-winter.svg" width="90%" alt="footer"/></p>
+<p align="center"><img src="./footer.svg" width="90%" alt="footer"/></p>
