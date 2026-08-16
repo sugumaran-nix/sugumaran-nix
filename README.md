@@ -128,28 +128,4 @@
   </picture>
 </p>
 
----
-
-### Contributions
-
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/pacman-contribution-graph-dark.svg"/>
-        <img alt="Pacman contribution graph"
-          src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/output/pacman-contribution-graph.svg"
-          width="100%"/>
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">Have a role in mind? <a href="mailto:sugumarankugan@gmail.com">Let's talk</a> · <a href="https://linkedin.com/in/sugumaran-nix">Connect on LinkedIn</a></p>
-
-<br/>
-
 <img src="./footer-winter.svg" width="100%" alt="footer"/>
