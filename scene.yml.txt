@@ -1,0 +1,19 @@
+name: Living scene
+on:
+  schedule:
+    - cron: "23 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yuki4266/living-scene@v1
+        with:
+          lat: "11.0168"
+          lon: "76.9558"
+          tz: Asia/Kolkata
