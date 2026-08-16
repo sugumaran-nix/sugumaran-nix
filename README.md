@@ -77,24 +77,6 @@
 
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Text-Detector.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
-      <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">AI Content Detector</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects AI-written text using 11 NLP signals — perplexity, burstiness, POS entropy, lexical diversity, and more. FastAPI backend with a LinearSVC classifier; sentence-level breakdown highlights exactly which parts read as AI.</p>
-        <p style="margin:0;">
-          <a href="https://ai-content-detector-nine.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
-          &nbsp;<a href="https://github.com/sugumaran-nix/ai-content-detector"><img src="https://img.shields.io/badge/source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
-          &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
