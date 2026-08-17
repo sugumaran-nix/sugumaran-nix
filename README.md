@@ -129,8 +129,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=9CA3AF&line=4C6EF5&point=4C6EF5&area=true&area_color=4C6EF520&hide_border=true&radius=4&height=220"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=4B5563&line=1E3A8A&point=1E3A8A&area=true&area_color=1E3A8A15&hide_border=true&radius=4&height=220" width="86%"/>
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=9CA3AF&line=4C6EF5&point=4C6EF5&area=true&area_color=4C6EF520&hide_border=true&radius=4&height=270"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=4B5563&line=1E3A8A&point=1E3A8A&area=true&area_color=1E3A8A15&hide_border=true&radius=4&height=270" width="86%"/>
   </picture>
 </p>
 
