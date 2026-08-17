@@ -140,6 +140,27 @@
 
 ---
 
+### Let's Connect
+
+<p align="center">
+  I'm actively looking for <strong>AI/ML, Full Stack, and Backend roles</strong> — remote or on-site across India.<br/>
+  If you're building something interesting or have an opportunity that fits, I'd love to hear from you.
+</p>
+
+<p align="center">
+  <a href="https://sugumaran-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-visit_site-1E3A8A?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=111827" height="24"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/sugumaran-nix">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="24"/>
+  </a>&nbsp;
+  <a href="mailto:sugumarankugan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hire_me-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" height="24"/>
+  </a>
+</p>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg"/>
   <img src="sky.svg" width="100%" alt=""/>
