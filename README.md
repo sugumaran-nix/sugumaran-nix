@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="justify"><strong>MCA '26 · Anna University.</strong> AI/ML engineer and full-stack developer based in Tamil Nadu. Open to AI/ML, full-stack, and backend roles across India — remote preferred.</p>
+<p align="justify"><strong>MCA ’26 · Anna University. AI/ML Engineer and Full-Stack Developer based in Tamil Nadu. Building and deploying AI-powered applications.</p>
 
 <p align="center">
   <a href="mailto:sugumarankugan@gmail.com">
