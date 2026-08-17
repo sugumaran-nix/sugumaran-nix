@@ -2,22 +2,19 @@
 
 <br/>
 
-<p align="justify"><strong>MCA '26 · Anna University.</strong> I build and deploy AI systems — fine-tuned transformers, ONNX inference pipelines, and full-stack apps that actually ship. Open to AI/ML and full-stack roles across India.</p>
+<p align="justify"><strong>MCA '26 · Anna University.</strong> AI/ML engineer and full-stack developer based in Tamil Nadu. Open to AI/ML, full-stack, and backend roles across India — remote preferred.</p>
 
 <p align="center">
   <a href="mailto:sugumarankugan@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-sugumarankugan%40gmail.com-white?style=for-the-badge&logo=gmail&logoColor=1E3A8A&labelColor=1E3A8A" height="26"/>
-  </a>
-</p>
-
-<p align="center">
+    <img src="https://img.shields.io/badge/Email-hire_me-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E3A8A" height="24"/>
+  </a>&nbsp;
   <a href="https://sugumaran-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-visit_site-111827?style=flat-square&logo=vercel&logoColor=white&labelColor=374151" height="22"/>
+    <img src="https://img.shields.io/badge/Portfolio-visit_site-1E3A8A?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=111827" height="24"/>
   </a>&nbsp;
   <a href="https://linkedin.com/in/sugumaran-nix">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="22"/>
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="24"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=sugumaran-nix&style=flat-square&color=6B7280&label=views&abbreviated=true" height="22"/>
+  <img src="https://komarev.com/ghpvc/?username=sugumaran-nix&style=for-the-badge&color=1E3A8A&label=VIEWS&abbreviated=true&labelColor=111827" height="24"/>
 </p>
 
 ---
@@ -133,7 +130,7 @@
 
 ---
 
-<p align="justify">Building things, learning along the way. 🚀</p>
+<p align="center">Building things, learning along the way. 🚀</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg"/>
