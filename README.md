@@ -141,6 +141,6 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg"/>
-  <img src="garden-footer.svg" width="100%" alt=""/>
+  <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg"/>
+  <img src="sky.svg" width="100%" alt=""/>
 </picture>
