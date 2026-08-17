@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="justify">AI/ML Engineer &amp; Full Stack Developer — MCA 2026, Anna University. I fine-tune transformer models, build inference pipelines, and ship production-ready full-stack apps. Available immediately for AI/ML, Full Stack, or Backend roles — remote or on-site across India.</p>
+<p align="justify">MCA 2026, Anna University. I fine-tune models, wire frontends to backends, and somehow get it all deployed. Looking for AI/ML or full-stack roles — remote preferred, will relocate for the right one.</p>
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
@@ -67,7 +67,7 @@
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">JobGuard — Fake Job Posting Detector</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">DistilBERT fine-tuned on 17,880 EMSCAD listings · ONNX INT8-quantized · 87.57% F1 on imbalanced data · runtime model switching between BERT and LinearSVC · URL fraud heuristics + token-level explainability per prediction.</p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">DistilBERT fine-tuned on 17,880 EMSCAD listings · 87.57% F1 on imbalanced data · ONNX INT8-quantized · runtime model switching between BERT and LinearSVC · URL fraud heuristics + token-level explainability. Because people deserve to know if that "remote $120k job" is a scam.</p>
         <p style="margin:0;">
           <a href="https://jobguard-8vur.onrender.com/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;<a href="https://github.com/sugumaran-nix/fake-job-posting-ml"><img src="https://img.shields.io/badge/source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
@@ -87,7 +87,7 @@
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Strokes sync across all users in under 100 ms via FastAPI WebSockets · board state replays on reconnect · 9 brush types · 64-step undo/redo synced across sessions · no login required.</p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Sub-100ms stroke sync via FastAPI WebSockets · board state replays on reconnect so late joiners don't start from a blank canvas · 9 brush types · 64-step undo/redo · no login required.</p>
         <p style="margin:0;">
           <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;<a href="https://github.com/sugumaran-nix/whiteboard-frontend"><img src="https://img.shields.io/badge/frontend-source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
@@ -107,7 +107,7 @@
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">AI Shopping Agent — Multi-Source Product Search</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Scrapes multiple e-commerce sources in real time · deduplicates and ranks results · AI recommendations powered by Gemini 2.0 Flash · disk-cached responses for free-tier cold start performance.</p>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Scrapes multiple e-commerce sources in real time · deduplicates and ranks results · Gemini 2.0 Flash picks the best ones · disk-cached so the free Render instance doesn't embarrass itself on cold starts.</p>
         <p style="margin:0;">
           <a href="https://ai-shopping-agent-theta.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;<a href="https://github.com/sugumaran-nix/ai-shopping-agent"><img src="https://img.shields.io/badge/source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
@@ -123,20 +123,20 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sugumaran-nix&theme=transparent&hide_border=true&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&sideLabels=374151&sideNums=111827&dates=6B7280&stroke=1E3A8A20" width="86%"/>
+  <img src="https://streak-stats.demolab.com/?user=sugumaran-nix&theme=transparent&hide_border=true&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A&sideLabels=374151&sideNums=111827&dates=6B7280&stroke=1E3A8A20" width="86%" height="170"/>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=9CA3AF&line=4C6EF5&point=4C6EF5&area=true&area_color=4C6EF520&hide_border=true&radius=4"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=4B5563&line=1E3A8A&point=1E3A8A&area=true&area_color=1E3A8A15&hide_border=true&radius=4" width="100%"/>
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=9CA3AF&line=4C6EF5&point=4C6EF5&area=true&area_color=4C6EF520&hide_border=true&radius=4&height=220"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sugumaran-nix&bg_color=00000000&color=4B5563&line=1E3A8A&point=1E3A8A&area=true&area_color=1E3A8A15&hide_border=true&radius=4&height=220" width="86%"/>
   </picture>
 </p>
 
 ---
 
-<p align="justify">Open to work &nbsp;·&nbsp; <a href="mailto:sugumarankugan@gmail.com">sugumarankugan@gmail.com</a></p>
+<p align="justify">still figuring it out, but at least the apps deploy &nbsp;·&nbsp; open to work</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg"/>
