@@ -2,11 +2,7 @@
 
 <br/>
 
-<p align="center">
-  AI/ML Engineer &amp; Full Stack Developer &nbsp;·&nbsp; MCA 2026, Anna University<br/>
-  I fine-tune transformer models, build inference pipelines, and ship full-stack apps — from training to production.<br/>
-  <strong>Open to AI/ML, Full Stack, and Backend roles &nbsp;·&nbsp; Remote or on-site across India</strong>
-</p>
+<p align="justify">AI/ML Engineer &amp; Full Stack Developer — MCA 2026, Anna University. I fine-tune transformer models, build inference pipelines, and ship production-ready full-stack apps. Available immediately for AI/ML, Full Stack, or Backend roles — remote or on-site across India.</p>
 
 <p align="center">
   <a href="https://sugumaran-portfolio.vercel.app">
@@ -70,8 +66,8 @@
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">JobGuard — Fake Job Posting Detector</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Detects fraudulent job postings using a DistilBERT model fine-tuned on 17,880 EMSCAD listings, ONNX INT8-quantized and published to Hugging Face Hub. Achieves 87.57% F1 on a heavily imbalanced dataset. A model router auto-selects between the BERT and LinearSVC predictor at runtime — no restart required. Paired with URL fraud heuristics and token-level explainability per prediction.</p>
+        <h3 style="margin:0 0 6px;color:#1E3A8A;">JobGuard — Fake Job Posting Detector</h3>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">DistilBERT fine-tuned on 17,880 EMSCAD listings · ONNX INT8-quantized · 87.57% F1 on imbalanced data · runtime model switching between BERT and LinearSVC · URL fraud heuristics + token-level explainability per prediction.</p>
         <p style="margin:0;">
           <a href="https://jobguard-8vur.onrender.com/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;<a href="https://github.com/sugumaran-nix/fake-job-posting-ml"><img src="https://img.shields.io/badge/source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
@@ -90,8 +86,8 @@
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Real-time collaborative whiteboard where every stroke propagates to all connected users in under 100 ms via FastAPI WebSockets. Board state replays on reconnect — late joiners never see a blank canvas. Nine hand-tuned brush types, 64-step undo/redo synced across the session, no account required.</p>
+        <h3 style="margin:0 0 6px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Strokes sync across all users in under 100 ms via FastAPI WebSockets · board state replays on reconnect · 9 brush types · 64-step undo/redo synced across sessions · no login required.</p>
         <p style="margin:0;">
           <a href="https://whiteboard-frontend-nine-smoky.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;<a href="https://github.com/sugumaran-nix/whiteboard-frontend"><img src="https://img.shields.io/badge/frontend-source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
@@ -110,8 +106,8 @@
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
       <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       <div style="padding:16px 20px 18px;">
-        <h3 style="margin:0 0 8px;color:#1E3A8A;">AI Shopping Agent — Multi-Source Product Search</h3>
-        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Searches multiple e-commerce sources in real time and surfaces AI-ranked recommendations powered by Gemini 2.0 Flash. Scrapes, deduplicates, and aggregates product listings into a single ranked feed. Built with Next.js 14 and FastAPI; disk-cached responses keep the Render free-tier backend fast through cold starts.</p>
+        <h3 style="margin:0 0 6px;color:#1E3A8A;">AI Shopping Agent — Multi-Source Product Search</h3>
+        <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Scrapes multiple e-commerce sources in real time · deduplicates and ranks results · AI recommendations powered by Gemini 2.0 Flash · disk-cached responses for free-tier cold start performance.</p>
         <p style="margin:0;">
           <a href="https://ai-shopping-agent-theta.vercel.app/"><img src="https://img.shields.io/badge/live-view_project-111827?style=for-the-badge&labelColor=1E3A8A&logoColor=F8FAFC" height="24"/></a>
           &nbsp;<a href="https://github.com/sugumaran-nix/ai-shopping-agent"><img src="https://img.shields.io/badge/source-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/></a>
@@ -140,26 +136,7 @@
 
 ---
 
-### Let's Connect
-
-<p align="center">
-  I'm actively looking for <strong>AI/ML, Full Stack, and Backend roles</strong> — remote or on-site across India.<br/>
-  If you're building something interesting or have an opportunity that fits, I'd love to hear from you.
-</p>
-
-<p align="center">
-  <a href="https://sugumaran-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-visit_site-1E3A8A?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=111827" height="24"/>
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/sugumaran-nix">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="24"/>
-  </a>&nbsp;
-  <a href="mailto:sugumarankugan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hire_me-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" height="24"/>
-  </a>
-</p>
-
-<br/>
+<p align="justify">Open to work &nbsp;·&nbsp; <a href="mailto:sugumarankugan@gmail.com">sugumarankugan@gmail.com</a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg"/>
