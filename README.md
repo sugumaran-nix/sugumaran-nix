@@ -128,4 +128,4 @@
   </picture>
 </p>
 
-<p align="center" width="86%"> <img src="./footer-winter.svg" width="100%" alt="footer"/> </p>
+<p align="center" width="86%"> <img src="./footer.svg" width="100%" alt="footer"/> </p>
