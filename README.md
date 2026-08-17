@@ -128,8 +128,6 @@
   </picture>
 </p>
 
----
-
 <p align="center">Building things, learning along the way. 🚀</p>
 
 <picture>
