@@ -58,7 +58,10 @@
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard-dark.png"/>
+        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      </picture>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">JobGuard — Fake Job Posting Detector</h3>
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">DistilBERT fine-tuned on 17,880 EMSCAD listings, ONNX INT8-quantized to 268MB — 87.57% F1 on a 4.8:1 class-imbalanced dataset. A model router hot-swaps between BertPredictor and LinearSVC at runtime without restart. Paired with a 10-signal URL fraud scorer and token-level prediction explainability.</p>
@@ -78,7 +81,10 @@
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline-dark.png"/>
+        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      </picture>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Point-by-point WebSocket sync with sub-100ms latency via FastAPI. Board state replays fully on reconnect — late joiners see the complete canvas. Supports 9 brush types, 64-step undo/redo synced across all clients, and auto-reconnect with exponential backoff (500ms → 8s).</p>
@@ -98,7 +104,10 @@
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
-      <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent-dark.png"/>
+        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+      </picture>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">AI Shopping Agent — Multi-Source Product Search</h3>
         <p style="font-size:14px;color:#111827;line-height:1.6;margin:0 0 14px;">Concurrently scrapes multiple e-commerce sources with tenacity-backed retries, deduplicates results, then passes top candidates to Gemini 2.0 Flash for ranked AI recommendations. Disk-cached with a 30-minute TTL — keeps p95 response times acceptable on Render's free tier.</p>
