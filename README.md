@@ -59,8 +59,8 @@
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard-dark.png"/>
-        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard-dark.webp"/>
+        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/JobGuard.webp" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       </picture>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">JobGuard — Fake Job Posting Detector</h3>
@@ -82,8 +82,8 @@
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline-dark.png"/>
-        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline-dark.webp"/>
+        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/Sketchline.webp" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       </picture>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">Sketchline — Real-Time Collaborative Whiteboard</h3>
@@ -105,8 +105,8 @@
   <tr>
     <td style="border:1.5px solid #1E3A8A;border-radius:10px;overflow:hidden;padding:0;">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent-dark.png"/>
-        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent.png" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent-dark.webp"/>
+        <img src="https://raw.githubusercontent.com/sugumaran-nix/sugumaran-nix/main/assets/AI-Shopping-Agent.webp" width="100%" style="display:block;border-radius:8px 8px 0 0;"/>
       </picture>
       <div style="padding:16px 20px 18px;">
         <h3 style="margin:0 0 6px;color:#1E3A8A;">AI Shopping Agent — Multi-Source Product Search</h3>
